@@ -1,0 +1,21 @@
+{
+  "baseline": {
+    "runs": 36,
+    "exits": 11,
+    "deaths": 7,
+    "protected_exits": 8,
+    "trace_exits": 0,
+    "all_finite": true,
+    "step_seconds_rounded": 5302
+  },
+  "after": {
+    "runs": 36,
+    "exits": 33,
+    "deaths": 3,
+    "protected_exits": 18,
+    "trace_exits": 12,
+    "all_finite": true,
+    "step_seconds_rounded": 2121
+  },
+  "note": "Multiple game and bot changes; not a single-variable experiment. Bots are not humans, protected runs are diagnostics. 60Hz fixed steps, no wall clock wait."
+}

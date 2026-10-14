@@ -1,0 +1,25 @@
+Диагностический вывод восьми сидированных прогонов; не оценка интересности/FPS на телефоне.
+SIM KITE seed=1 time=388 win=false wave=7 lvl=8 kills=520 elites=0 gold=29 near=2@119 minHp=0.00 maxAlive=298 chests=0 tav=2 finite=true ms=1317
+    W: knives 1, trap 1, hearth 1, mugs 2 | P: tea 2, stew 1 | picks=9
+    dpm: 1485 3010 1527 3009 4075 3081 2362 0 0 0 0
+SIM KITE seed=2 time=111 win=false wave=2 lvl=8 kills=300 elites=0 gold=18 near=2@82 minHp=0.00 maxAlive=63 chests=0 tav=0 finite=true ms=51
+    W: knives 1, raven 1, pan 1, bell 3 | P: horseshoe 1 | picks=7
+    dpm: 1610 4037 0 0 0 0 0 0 0 0 0
+SIM CASUAL seed=1 time=89 win=false wave=2 lvl=7 kills=204 elites=0 gold=8 near=0@-1 minHp=0.00 maxAlive=65 chests=0 tav=0 finite=true ms=22
+    W: knives 1, trap 1, hearth 1, mugs 2 | P: tea 1, stew 1 | picks=6
+    dpm: 1528 1806 0 0 0 0 0 0 0 0 0
+SIM CASUAL seed=2 time=129 win=false wave=3 lvl=4 kills=126 elites=0 gold=12 near=2@24 minHp=0.00 maxAlive=150 chests=0 tav=0 finite=true ms=141
+    W: knives 1, raven 1 | P:  | picks=3
+    dpm: 900 907 178 0 0 0 0 0 0 0 0
+SIM PASSIVE seed=1 time=20 win=false wave=1 lvl=2 kills=18 elites=0 gold=5 near=1@15 minHp=0.00 maxAlive=20 chests=0 tav=0 finite=true ms=3
+    W: knives 1 | P:  | picks=1
+    dpm: 208 0 0 0 0 0 0 0 0 0 0
+SIM PASSIVE seed=2 time=20 win=false wave=1 lvl=2 kills=17 elites=0 gold=5 near=1@15 minHp=0.00 maxAlive=21 chests=0 tav=0 finite=true ms=2
+    W: knives 1 | P:  | picks=1
+    dpm: 198 0 0 0 0 0 0 0 0 0 0
+SIM WANDER seed=1 time=35 win=false wave=1 lvl=2 kills=36 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=38 chests=0 tav=0 finite=true ms=6
+    W: knives 1, trap 1 | P:  | picks=1
+    dpm: 474 0 0 0 0 0 0 0 0 0 0
+SIM WANDER seed=2 time=21 win=false wave=1 lvl=2 kills=19 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=22 chests=0 tav=0 finite=true ms=3
+    W: knives 1, raven 1 | P:  | picks=1
+    dpm: 255 0 0 0 0 0 0 0 0 0 0

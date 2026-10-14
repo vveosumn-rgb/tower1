@@ -1,0 +1,127 @@
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToRuntimeJar UP-TO-DATE
+> Task :app:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:packageDebugUnitTestForUnitTest UP-TO-DATE
+> Task :app:generateDebugUnitTestConfig UP-TO-DATE
+> Task :app:processDebugJavaRes UP-TO-DATE
+> Task :app:compileDebugUnitTestKotlin
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/AdventureVisualTest.kt:35:346 Variable 'a' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Boss12DiagnosticTest.kt:10:196 Name shadowed: a
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Boss12Test.kt:23:60 Variable 'w' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Boss12Test.kt:24:47 Variable 'w' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Boss12VisualTest.kt:17:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook13Test.kt:9:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook13Test.kt:10:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook13Test.kt:19:56 Variable 'e' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook13Test.kt:22:52 Variable 'e' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook13VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Hook14VisualTest.kt:13:80 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/R03VisualTest.kt:172:13 Variable 'bm' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/R08SoakTest.kt:29:16 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Region11VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Shield16VisualTest.kt:13:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15Test.kt:14:74 Variable 'm' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15Test.kt:21:95 Variable 'e' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15Test.kt:24:72 Variable 'm' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15Test.kt:29:62 Variable 'm' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15Test.kt:30:55 Variable 'm' is never used
+w: file:///data/work/TavernRush-current/app/src/test/java/com/tavernrush/game/Team15VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes UP-TO-DATE
+
+> Task :app:testDebugUnitTest
+
+com.tavernrush.game.Shield16SoakTest > sixShieldRoutesAndRematchesStayFinite FAILED
+    java.lang.AssertionError at Shield16SoakTest.kt:13
+
+com.tavernrush.game.Shield16Test > frontArrowCanBeParriedEvenIfShooterMovedBehind PASSED
+
+com.tavernrush.game.Shield16Test > everyFlyingKindCanBeIntercepted PASSED
+
+com.tavernrush.game.Shield16Test > coveringStyleCanInterceptRearShot PASSED
+
+com.tavernrush.game.Shield16Test > segmentHelperFindsFirstContactNotExit PASSED
+
+com.tavernrush.game.Shield16Test > noShooterObjectIsRequired PASSED
+
+com.tavernrush.game.Shield16Test > lateFrontBlockStillConsumesWithoutPerfectCounter PASSED
+
+com.tavernrush.game.Shield16Test > outsideArenaHasNoRegionStone PASSED
+
+com.tavernrush.game.Shield16Test > environmentalDamageCannotUseProjectileParry PASSED
+
+com.tavernrush.game.Shield16Test > parriedWebDoesNotApplySlow PASSED
+
+com.tavernrush.game.Shield16Test > pooledShotCannotRetainOldParryContact PASSED
+
+com.tavernrush.game.Shield16Test > playerBeforeStoneCanBeHitEvenIfStepEndsBehindStone PASSED
+
+com.tavernrush.game.Shield16Test > rearArrowCannotBeParriedBecauseShooterIsInFront PASSED
+
+com.tavernrush.game.Shield16Test > projectileParryInterceptsWithoutRemoteCounter PASSED
+
+com.tavernrush.game.Shield16Test > sideOfDirectionalShieldRemainsExposed PASSED
+
+com.tavernrush.game.Shield16Test > meleeCounterStillHurtsActualAttacker PASSED
+
+com.tavernrush.game.Shield16Test > godModeDoesNotClaimParryOrSpendShield PASSED
+
+com.tavernrush.game.Shield16Test > sweptShotCannotTunnelThroughPlayer PASSED
+
+com.tavernrush.game.Shield16Test > temporaryInvulnerabilityDoesNotSpendShield PASSED
+
+com.tavernrush.game.Shield16Test > dodgeDoesNotSpendShieldOrDeletePassingShot PASSED
+
+com.tavernrush.game.Shield16Test > deadShooterDoesNotDisableARealParry PASSED
+
+com.tavernrush.game.Shield16Test > stationaryShotOutsideBodyDoesNotHit PASSED
+
+com.tavernrush.game.Shield16Test > secondShotInSameFrameCanHurtAfterShieldIsSpent PASSED
+
+com.tavernrush.game.Shield16Test > expiryDoesNotPretendToHitOrParry PASSED
+
+com.tavernrush.game.Shield16Test > stoneBeforePlayerStopsHitAndShowsLocalImpact PASSED
+
+com.tavernrush.game.Shield16Test > openedGateDoesNotLeaveInvisibleCover PASSED
+
+com.tavernrush.game.Shield16VisualTest > leftThumbAimsWhileRightTapParriesIncomingShot PASSED
+
+com.tavernrush.game.Shield16VisualTest > localStoneImpactIsNotAFalsePlayerHit PASSED
+
+28 tests completed, 1 failed
+
+> Task :app:testDebugUnitTest FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:testDebugUnitTest'.
+> There were failing tests. See the report at: file:///data/work/TavernRush-current/app/build/reports/tests/testDebugUnitTest/index.html
+
+* Try:
+> Run with --scan to get full insights.
+
+BUILD FAILED in 59s
+25 actionable tasks: 3 executed, 22 up-to-date

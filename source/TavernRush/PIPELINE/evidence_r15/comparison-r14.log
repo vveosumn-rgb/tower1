@@ -1,0 +1,63 @@
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths
+> Task :app:generateDebugResources
+> Task :app:checkDebugAarMetadata
+> Task :app:packageDebugResources
+> Task :app:parseDebugLocalResources
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:processDebugManifestForPackage
+> Task :app:mergeDebugResources
+> Task :app:javaPreCompileDebug
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets
+> Task :app:processDebugResources
+> Task :app:packageDebugUnitTestForUnitTest
+> Task :app:generateDebugUnitTestConfig
+> Task :app:compileDebugKotlin
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:636:27 Variable 'glowCol' initializer is redundant
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:637:25 Variable 'glowR' initializer is redundant
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:752:48 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:868:75 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:1364:38 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/render/pixel/ModelBaker.kt:398:37 Parameter 'ox' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/main/java/com/tavernrush/game/ui/screens/HudScreen.kt:172:36 Variable 'u' is never used
+
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToRuntimeJar
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:processDebugJavaRes
+> Task :app:compileDebugUnitTestKotlin
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/AdventureVisualTest.kt:35:346 Variable 'a' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Boss12DiagnosticTest.kt:10:196 Name shadowed: a
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Boss12Test.kt:23:60 Variable 'w' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Boss12Test.kt:24:47 Variable 'w' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Boss12VisualTest.kt:17:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook13Test.kt:9:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook13Test.kt:10:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook13Test.kt:19:56 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook13Test.kt:22:52 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook13VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Hook14VisualTest.kt:13:80 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/R03VisualTest.kt:172:13 Variable 'bm' is never used
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/R08SoakTest.kt:29:16 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r14/app/src/test/java/com/tavernrush/game/Region11VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes
+
+> Task :app:testDebugUnitTest
+
+com.tavernrush.game.BaselineTeam15SoakTest > waterAndLynxRoutesRemainFiniteWithoutBodyTunnelling STANDARD_OUT
+    R14 baseline diagnostics (not new acceptance): [r2 mode2 safefalse bad3, r2 mode2 safetrue bad3]
+
+com.tavernrush.game.BaselineTeam15SoakTest > waterAndLynxRoutesRemainFiniteWithoutBodyTunnelling PASSED
+
+BUILD SUCCESSFUL in 2m 15s
+25 actionable tasks: 25 executed

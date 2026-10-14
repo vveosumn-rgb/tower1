@@ -1,0 +1,1197 @@
+[
+  {
+    "index": 1,
+    "game": "Kingdom Eighties",
+    "sample_unique_initial": 111,
+    "especially_valued": "Спокойно расширять владения, видеть помощь союзников, затем выдерживать опасную ночь: удовольствие от ритма подготовки и проверки своего результата.",
+    "flow_breaker": "Медленные переезды и недостаток нового превращают спокойствие в скуку.",
+    "our_adaptation": "Наши поселения меняются после спасения; подготовленная оборона испытывается событием. Между угрозами можно спокойно исследовать, а не ежедневно обслуживать налог на выживание.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "234875084",
+        "url": "https://steamcommunity.com/profiles/76561198025047455/recommended/1956040/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "227494256",
+        "url": "https://steamcommunity.com/profiles/76561198094423998/recommended/1956040/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "235648239",
+        "url": "https://steamcommunity.com/profiles/76561198311451090/recommended/1956040/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "212840847",
+        "url": "https://steamcommunity.com/profiles/76561198077326238/recommended/1956040/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 2,
+    "game": "Blasphemous",
+    "sample_unique_initial": 120,
+    "especially_valued": "Освоить парирование и движения босса, победить собственным умением; выразительные руины, музыка и пиксельная работа усиливают чувство места.",
+    "flow_breaker": "Неотзывчивое движение и однообразные зоны мешают и бою, и исследованию.",
+    "our_adaptation": "Направленная защита, читаемый замах и контрудар; регион рассказывает историю архитектурой, звуком и существами, не только текстом.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "228182495",
+        "url": "https://steamcommunity.com/profiles/76561199742731042/recommended/774361/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "225364046",
+        "url": "https://steamcommunity.com/profiles/76561198082003502/recommended/774361/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "224779205",
+        "url": "https://steamcommunity.com/profiles/76561199803408375/recommended/774361/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 3,
+    "game": "Delver",
+    "sample_unique_initial": 46,
+    "especially_valued": "Простое отзывчивое приключение: осторожно исследовать, услышать опасность, найти добычу без перегруженного интерфейса.",
+    "flow_breaker": "Резкая неудовлетворительная концовка и возврат после финала обесценивают поход.",
+    "our_adaptation": "Короткие руины с ясным входом, заметной добычей и достойной развязкой; после цели — быстрый выход, не повтор пустого пути.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "208209668",
+        "url": "https://steamcommunity.com/profiles/76561198033317589/recommended/249630/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "217467670",
+        "url": "https://steamcommunity.com/profiles/76561197963583718/recommended/249630/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "211061367",
+        "url": "https://steamcommunity.com/profiles/76561198103155249/recommended/249630/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Малая выборка; вывод качественный."
+  },
+  {
+    "index": 4,
+    "game": "Graveyard Keeper",
+    "sample_unique_initial": 120,
+    "especially_valued": "Постепенно связать производство в работающую систему и автоматизировать повторение; тёмный юмор делает занятие запоминающимся.",
+    "flow_breaker": "Поручения ради поручений, календарное ожидание и ремесленная бюрократия.",
+    "our_adaptation": "Трофей имеет несколько осмысленных применений. Освоенную обработку делегируем мастеру; новое звено должно менять возможности, не удлинять рецепт.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "221008178",
+        "url": "https://steamcommunity.com/profiles/76561199182081311/recommended/599140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "222848898",
+        "url": "https://steamcommunity.com/profiles/76561198042797138/recommended/599140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "225516129",
+        "url": "https://steamcommunity.com/profiles/76561198401154770/recommended/599140/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "226753272",
+        "url": "https://steamcommunity.com/profiles/76561198058995288/recommended/599140/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 5,
+    "game": "Dead Cells",
+    "sample_unique_initial": 128,
+    "especially_valued": "Плавное движение, приятные удары, разнообразные оружия и сочетания; поражение не отменяет весь смысл следующей попытки.",
+    "flow_breaker": "Воспринимаемые как нечестные попадания и слишком долгое привыкание к нужной сложности.",
+    "our_adaptation": "Сразу хороший базовый бой; новые свойства меняют действие. После неудачи быстро пробовать другой ответ, сохраняя отношения и открытые возможности.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "228345059",
+        "url": "https://steamcommunity.com/profiles/76561198142247081/recommended/588650/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "210645299",
+        "url": "https://steamcommunity.com/profiles/76561197976968955/recommended/588650/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "219766737",
+        "url": "https://steamcommunity.com/profiles/76561199492712675/recommended/588650/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 6,
+    "game": "HAAK",
+    "sample_unique_initial": 90,
+    "especially_valued": "Новый приём превращает знакомую карту в набор новых коротких путей и секретов; движение само по себе приятно.",
+    "flow_breaker": "Пустые длинные лабиринты и повторение растягивают исследование.",
+    "our_adaptation": "Крюк, перенос импульса и способности существ открывают заметные маршруты; обратные пути сокращаются после открытия.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "229041159",
+        "url": "https://steamcommunity.com/profiles/76561198367471798/recommended/1352930/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "207561950",
+        "url": "https://steamcommunity.com/profiles/76561198068607286/recommended/1352930/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "222371148",
+        "url": "https://steamcommunity.com/profiles/76561199111487810/recommended/1352930/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 7,
+    "game": "Children of Morta",
+    "sample_unique_initial": 119,
+    "especially_valued": "Драться ради близких, слышать историю команды и пользоваться общим прогрессом разных героев.",
+    "flow_breaker": "Повтор одинаковых боёв после раскрытия героев; мелкие числовые улучшения недостаточны.",
+    "our_adaptation": "Герой и существа участвуют в сценах после похода; общие открытия поддерживают смену стиля без повторного обучения с нуля.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "231302461",
+        "url": "https://steamcommunity.com/profiles/76561199391443502/recommended/330020/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "228745785",
+        "url": "https://steamcommunity.com/profiles/76561197968477113/recommended/330020/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "214966099",
+        "url": "https://steamcommunity.com/profiles/76561198094794066/recommended/330020/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 8,
+    "game": "Sword of Convallaria",
+    "sample_unique_initial": 117,
+    "especially_valued": "Сочетать роли команды, использовать рельеф, столкнуть противника в выгодную позицию; решения в истории имеют последствия.",
+    "flow_breaker": "Повторные карты и барьеры прогресса превращают стратегию в обязательную работу.",
+    "our_adaptation": "Тактические поверхности и направления в экшне, при желании пауза для команды. Последствия выбора — встреча, маршрут, доверие, а не оплаченная рулетка.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "227071547",
+        "url": "https://steamcommunity.com/profiles/76561199092181264/recommended/2526380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "229712772",
+        "url": "https://steamcommunity.com/profiles/76561199438606138/recommended/2526380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "233970775",
+        "url": "https://steamcommunity.com/profiles/76561197996568862/recommended/2526380/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 9,
+    "game": "Otherworld Legends",
+    "sample_unique_initial": 101,
+    "especially_valued": "Разные герои играются по-разному; найденный предмет становится центром нового сочетания. Легко начать очередное приключение.",
+    "flow_breaker": "После открытия героев остаётся однообразное добывание улучшений; слишком лёгкое повторение.",
+    "our_adaptation": "Чёткие игровые архетипы и предметы с качественными эффектами; после сборки появляются задачи для её проверки, не бесконечное наращивание камней.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "210646622",
+        "url": "https://steamcommunity.com/profiles/76561199264306246/recommended/1761380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "218563410",
+        "url": "https://steamcommunity.com/profiles/76561198121282307/recommended/1761380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "207233417",
+        "url": "https://steamcommunity.com/profiles/76561198016472095/recommended/1761380/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 10,
+    "game": "Octopath Traveler: CotC",
+    "sample_unique_initial": 3,
+    "especially_valued": "В трёх доступных отзывах ценят сюжет, характеры, пиксельную графику; один отдельно хвалит короткие задания и пропускаемые сцены.",
+    "flow_breaker": "Критикуют дорогие покупки и призывы, качество локализации; сложность важных боёв воспринимается неоднозначно.",
+    "our_adaptation": "Различимые роли, личные главы союзников и выразительная постановка. Историю не ставим за платный призыв, локализацию проверяем как часть эмоции.",
+    "references": [
+      {
+        "role": "pleasure",
+        "url": "https://play.google.com/store/apps/details?id=com.netease.octopath.sea&hl=en",
+        "note": "3 видимых отзыва: Galaxy Eclipse, Harini Shankar, Javier Garcia; региональная мобильная версия."
+      },
+      {
+        "role": "friction",
+        "url": "https://play.google.com/store/apps/details?id=com.netease.octopath.sea&hl=en",
+        "note": "3 видимых отзыва: Galaxy Eclipse, Harini Shankar, Javier Garcia; региональная мобильная версия."
+      }
+    ],
+    "confidence_note": "Ограниченная база: 3 мобильных отзыва."
+  },
+  {
+    "index": 11,
+    "game": "Skul: The Hero Slayer",
+    "sample_unique_initial": 132,
+    "especially_valued": "Смена головы действительно меняет способ драться; интересно обнаружить взаимодействие предметов и собрать работающий комплект.",
+    "flow_breaker": "Скрытые правила билдов и визуальная каша мешают понимать успех и ошибку.",
+    "our_adaptation": "Смена оружейного стиля либо совместная форма существа даёт другой набор действий. Каждая синергия объясняется на коротком примере.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "216482237",
+        "url": "https://steamcommunity.com/profiles/76561198249083520/recommended/1147560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "234571361",
+        "url": "https://steamcommunity.com/profiles/76561198422698306/recommended/1147560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "213930620",
+        "url": "https://steamcommunity.com/profiles/76561198878619436/recommended/1147560/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 12,
+    "game": "Potion Permit",
+    "sample_unique_initial": 116,
+    "especially_valued": "Мягкий цикл поиска, лечения и отношений; приятно быть полезным людям, а не только убивать.",
+    "flow_breaker": "Повторный сбор ради слабого вознаграждения и плоских улучшений.",
+    "our_adaptation": "Диагностика существа показывает, что ему нужно; помощь меняет поведение и открывает сотрудничество. Уже найденное средство не надо каждый раз добывать заново.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "209786995",
+        "url": "https://steamcommunity.com/profiles/76561198178655750/recommended/1337760/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "235239312",
+        "url": "https://steamcommunity.com/profiles/76561197981180543/recommended/1337760/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "220026031",
+        "url": "https://steamcommunity.com/profiles/76561198207469979/recommended/1337760/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 13,
+    "game": "Starbound",
+    "sample_unique_initial": 120,
+    "especially_valued": "Отправиться к новому месту, привезти находки, обустроить собственный дом и команду; атмосфера поддерживает фантазию путешественника.",
+    "flow_breaker": "В критическом положительном отзыве — похожие планеты и недостаток глубины за большим количеством.",
+    "our_adaptation": "Разные регионы имеют собственные правила, обитателей и тайны; дом хранит трофеи с историями. Не размножаем карту без нового решения.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "216266576",
+        "url": "https://steamcommunity.com/profiles/76561198097423229/recommended/211820/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "209184604",
+        "url": "https://steamcommunity.com/profiles/76561198806148159/recommended/211820/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "229206490",
+        "url": "https://steamcommunity.com/profiles/76561198003129733/recommended/211820/",
+        "recommendation_positive": true
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 14,
+    "game": "Factorio",
+    "sample_unique_initial": 138,
+    "especially_valued": "Придумать решение узкого места и увидеть, как оно работает; схемы и помощники освобождают от повторного строительства уже решённого.",
+    "flow_breaker": "Сложность и попытка сделать всё идеально сразу могут парализовать продолжение.",
+    "our_adaptation": "Устройство в мире можно собрать, испытать, улучшить, затем сохранить схему. Плохой, но работающий вариант допустим; точная оптимизация добровольна.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "224916035",
+        "url": "https://steamcommunity.com/profiles/76561198105062687/recommended/427520/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "227168898",
+        "url": "https://steamcommunity.com/profiles/76561198061416173/recommended/427520/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "227168898",
+        "url": "https://steamcommunity.com/profiles/76561198061416173/recommended/427520/",
+        "recommendation_positive": true
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 15,
+    "game": "Noita",
+    "sample_unique_initial": 134,
+    "especially_valued": "Из простых компонентов собрать неожиданно сильный эффект; секреты и взаимодействующая среда рождают личные истории.",
+    "flow_breaker": "Мгновенная смерть и полный сброс без ощутимого прогресса не всем приятны.",
+    "our_adaptation": "Эксперименты с состояниями и комбинациями, безопасная проба и объяснимый результат. Риск не уничтожает любимое существо или его родословную.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "223945323",
+        "url": "https://steamcommunity.com/profiles/76561198799339506/recommended/881100/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "212703584",
+        "url": "https://steamcommunity.com/profiles/76561198025804460/recommended/881100/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "222742751",
+        "url": "https://steamcommunity.com/profiles/76561198354019006/recommended/881100/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 16,
+    "game": "Dave the Diver",
+    "sample_unique_initial": 125,
+    "especially_valued": "Чередование спокойного исследования, опасной встречи и другого темпа после возвращения; добыча продолжает жить в занятиях и истории.",
+    "flow_breaker": "Новые обязательные системы и задержки доступа к ним перегружают первоначально любимый цикл.",
+    "our_adaptation": "После экспедиции — сцена, приготовление приманки или оформление, по выбору. Новая система сначала приносит удовольствие, затем глубину, не список обязанностей.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "215005221",
+        "url": "https://steamcommunity.com/profiles/76561198055226159/recommended/1868140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "216552548",
+        "url": "https://steamcommunity.com/profiles/76561198048174446/recommended/1868140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "233288140",
+        "url": "https://steamcommunity.com/profiles/76561198001282164/recommended/1868140/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "209098902",
+        "url": "https://steamcommunity.com/profiles/76561198185026571/recommended/1868140/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 17,
+    "game": "Terraria",
+    "sample_unique_initial": 135,
+    "especially_valued": "Путь от беспомощности к невероятным возможностям; босс меняет мир, оружия, материалы и следующий горизонт. Строить собственное тоже интересно.",
+    "flow_breaker": "Неочевидные условия прогресса заставляют искать внешнюю инструкцию.",
+    "our_adaptation": "Победа открывает новый способ перемещения, поведения или взаимодействия региона. Журнал и следы показывают следующий возможный эксперимент без спойлера всей игры.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "218901637",
+        "url": "https://steamcommunity.com/profiles/76561198256897471/recommended/105600/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "226497908",
+        "url": "https://steamcommunity.com/profiles/76561199400360914/recommended/105600/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "234296029",
+        "url": "https://steamcommunity.com/profiles/76561197990705923/recommended/105600/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "208546967",
+        "url": "https://steamcommunity.com/profiles/76561198127036136/recommended/105600/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 18,
+    "game": "Stardew Valley",
+    "sample_unique_initial": 139,
+    "especially_valued": "Самому выбирать занятие и темп, выращивать своё место, узнавать предпочтения людей; можно отдыхать или оптимизировать.",
+    "flow_breaker": "Бытовое обслуживание и отношения как чек-лист не дают ощущения отдыха.",
+    "our_adaptation": "Свободные личные цели в убежище и мире; дружба развивается в совместных историях. Брошенный на неделю сад не наказывает игрока.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "219885487",
+        "url": "https://steamcommunity.com/profiles/76561198256897471/recommended/413150/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "217236141",
+        "url": "https://steamcommunity.com/profiles/76561198873018579/recommended/413150/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "211056119",
+        "url": "https://steamcommunity.com/profiles/76561197972394698/recommended/413150/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 19,
+    "game": "Summerhouse",
+    "sample_unique_initial": 108,
+    "especially_valued": "Создать красивое место без неправильного решения, таймера и обязательной выгоды; палитра и звук сами приносят удовольствие.",
+    "flow_breaker": "Неясные слои и неудобное управление нарушают даже расслабляющее занятие.",
+    "our_adaptation": "Свободное оформление дома и среды существ, простая отмена действий и понятные слои. Косметика не обязана давать боевой процент.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "236154117",
+        "url": "https://steamcommunity.com/profiles/76561197992438116/recommended/2533960/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "223882729",
+        "url": "https://steamcommunity.com/profiles/76561198114210749/recommended/2533960/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "206818288",
+        "url": "https://steamcommunity.com/profiles/76561198078146242/recommended/2533960/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 20,
+    "game": "Forager",
+    "sample_unique_initial": 118,
+    "especially_valued": "Быстро замкнуть цикл собрать → построить → открыть → ускорить; постоянно виден результат следующего небольшого шага.",
+    "flow_breaker": "Поздние требования ресурсов и торможение превращают рост в затянувшуюся работу.",
+    "our_adaptation": "Частые небольшие открытия в начале; автоматизация освоенного. Крупная цель состоит из разных задач, не из сотен одинаковых ресурсов.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "235863067",
+        "url": "https://steamcommunity.com/profiles/76561198079270458/recommended/751780/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "236305345",
+        "url": "https://steamcommunity.com/profiles/76561198843511253/recommended/751780/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "218701101",
+        "url": "https://steamcommunity.com/profiles/76561198126481077/recommended/751780/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 21,
+    "game": "Stoneshard",
+    "sample_unique_initial": 120,
+    "especially_valued": "Подготовка, ловушки и осторожная тактика делают опасный поход заслуженной победой; разные ветви создают разные подходы.",
+    "flow_breaker": "Повторение длинной подготовки, ограничение жизнеспособных билдов и неровный рост угроз.",
+    "our_adaptation": "Перед рискованной экспедицией ясны ставки и средства ответа; сбор готового набора одним действием. Выживание создаёт выбор, а не обслуживание десятка шкал.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "223194217",
+        "url": "https://steamcommunity.com/profiles/76561198156147517/recommended/625960/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "209759320",
+        "url": "https://steamcommunity.com/profiles/76561197971508249/recommended/625960/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "212760439",
+        "url": "https://steamcommunity.com/profiles/76561198053471618/recommended/625960/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "213708042",
+        "url": "https://steamcommunity.com/profiles/76561198060684473/recommended/625960/",
+        "recommendation_positive": true
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 22,
+    "game": "Kynseed",
+    "sample_unique_initial": 108,
+    "especially_valued": "Свобода занятий, фольклорная тайна и ощущение жизни поколений; отдельные ремесленные действия приятно выполнять самому.",
+    "flow_breaker": "Безжизненные повторяющиеся NPC и потеря дорогих отношений при переходах подрывают привязанность.",
+    "our_adaptation": "Родословная существ хранит истории, мир помнит поступки. Поколения расширяют коллекцию, не требуют смерти героя и удаления его близких.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "232673470",
+        "url": "https://steamcommunity.com/profiles/76561198136126872/recommended/758870/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "216738535",
+        "url": "https://steamcommunity.com/profiles/76561198044167758/recommended/758870/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "237037125",
+        "url": "https://steamcommunity.com/profiles/76561197999756523/recommended/758870/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 23,
+    "game": "Forts",
+    "sample_unique_initial": 120,
+    "especially_valued": "Спроектировать укрепление, попасть в уязвимое место и увидеть выразительное разрушение; освоение трудного испытания приносит удовлетворение.",
+    "flow_breaker": "Воспринимаемый как случайный решающий выстрел лишает победу ощущения заслуженности.",
+    "our_adaptation": "Локальные осады с читаемой опорой, заранее понятным разрушением и ремонтом. Игрок понимает, почему его план сработал или нет.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "215837033",
+        "url": "https://steamcommunity.com/profiles/76561199574691502/recommended/410900/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "213082062",
+        "url": "https://steamcommunity.com/profiles/76561199068269492/recommended/410900/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "223749216",
+        "url": "https://steamcommunity.com/profiles/76561198211699476/recommended/410900/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 24,
+    "game": "Gnomoria",
+    "sample_unique_initial": 29,
+    "especially_valued": "Построить устойчивое поселение, назначить любимым жителям профессии и роли, увидеть работающую организацию.",
+    "flow_breaker": "В прочитанных новых отрицательных отзывах — потеря большого вложенного труда из-за ошибок и нестабильности.",
+    "our_adaptation": "Убежище с живыми специалистами и видимым вкладом существ. Надёжные сохранения и возможность исправить решение важнее сотни профессий.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "9335266",
+        "url": "https://steamcommunity.com/profiles/76561198021175773/recommended/224500/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "16360784",
+        "url": "https://steamcommunity.com/profiles/76561198002745943/recommended/224500/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "235893467",
+        "url": "https://steamcommunity.com/profiles/76561198022001702/recommended/224500/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "221760832",
+        "url": "https://steamcommunity.com/profiles/76561198004576021/recommended/224500/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Малая свежая выборка; достоинства дополнены историческими отзывами."
+  },
+  {
+    "index": 25,
+    "game": "Anvil Saga",
+    "sample_unique_initial": 75,
+    "especially_valued": "Особенные заказы и развилки истории придают ремеслу смысл; приятны анимации работы.",
+    "flow_breaker": "После открытия всех станков остаётся монотонно открывать и закрывать очередь.",
+    "our_adaptation": "Особый заказ имеет сюжет, выбор свойства и видимый уникальный результат; обычное производство делегируется после освоения.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "225489019",
+        "url": "https://steamcommunity.com/profiles/76561198056750672/recommended/1587540/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "222134426",
+        "url": "https://steamcommunity.com/profiles/76561197964858920/recommended/1587540/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "214537361",
+        "url": "https://steamcommunity.com/profiles/76561198104303537/recommended/1587540/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 26,
+    "game": "Dig or Die",
+    "sample_unique_initial": 50,
+    "especially_valued": "Придумать плотину, поток энергии и маршруты обороны, испытать собственное инженерное решение.",
+    "flow_breaker": "Обязательное возвращение каждую ночь и ожидание уже побеждённой волны превращаются в рутину.",
+    "our_adaptation": "Решить наводнение или подготовить осаду можно несколькими схемами; успешно освоенное событие не возвращается ежедневно как обязанность.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "225070494",
+        "url": "https://steamcommunity.com/profiles/76561198053163100/recommended/315460/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "234835010",
+        "url": "https://steamcommunity.com/profiles/76561199730691928/recommended/315460/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "218334223",
+        "url": "https://steamcommunity.com/profiles/76561197997257316/recommended/315460/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "230502779",
+        "url": "https://steamcommunity.com/profiles/76561198150719301/recommended/315460/",
+        "recommendation_positive": true
+      }
+    ],
+    "confidence_note": "Малая выборка; вывод качественный."
+  },
+  {
+    "index": 27,
+    "game": "Space Haven",
+    "sample_unique_initial": 116,
+    "especially_valued": "Создать работающий корабль-дом и заботиться о команде; поиск ресурсов и улучшение своего места поддерживают друг друга.",
+    "flow_breaker": "Неумная работа исполнителей и повторные одинаковые вылазки заставляют заниматься системой вместо своей цели.",
+    "our_adaptation": "Среда обитания и специалисты понятно обслуживают приключения; потребности порождают сцену и решение. Исправление каждого шага ИИ не становится игрой.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "225345761",
+        "url": "https://steamcommunity.com/profiles/76561197972162541/recommended/979110/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "225480522",
+        "url": "https://steamcommunity.com/profiles/76561197961576403/recommended/979110/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "227302747",
+        "url": "https://steamcommunity.com/profiles/76561198039417136/recommended/979110/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 28,
+    "game": "Necesse",
+    "sample_unique_initial": 129,
+    "especially_valued": "Строить живую деревню, жители которой реально помогают; развитие поселения соседствует с исследованием и боссами.",
+    "flow_breaker": "Повтор уже пройденных боссов с большими числами и пустое исследование.",
+    "our_adaptation": "Союзник открывает полезную функцию или совместную встречу. Новый босс требует другой ответ, а не того же приёма против удвоенного здоровья.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "206869129",
+        "url": "https://steamcommunity.com/profiles/76561198005921895/recommended/1169040/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "207003899",
+        "url": "https://steamcommunity.com/profiles/76561198806148159/recommended/1169040/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "208841951",
+        "url": "https://steamcommunity.com/profiles/76561198032855540/recommended/1169040/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "212343046",
+        "url": "https://steamcommunity.com/profiles/76561197992071236/recommended/1169040/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 29,
+    "game": "Planet Centauri",
+    "sample_unique_initial": 95,
+    "especially_valued": "Комбо с подбрасыванием и приручение опасного зверя дают активное, выразительное удовольствие.",
+    "flow_breaker": "Механики, добавленные только ради наличия, остаются поверхностными.",
+    "our_adaptation": "Приручение — самостоятельная игровая встреча; у вида есть манера боя, средовое поведение и развитие. Глубина важнее числа пунктов в меню.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "209994126",
+        "url": "https://steamcommunity.com/profiles/76561198163447338/recommended/385380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "221805134",
+        "url": "https://steamcommunity.com/profiles/76561198105539883/recommended/385380/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "208848754",
+        "url": "https://steamcommunity.com/profiles/76561198023734485/recommended/385380/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 30,
+    "game": "People Playground",
+    "sample_unique_initial": 121,
+    "especially_valued": "Свободно поставить опыт, собрать конструкцию, увидеть неожиданную физическую реакцию; игрок сам задаёт интересную задачу.",
+    "flow_breaker": "Один выбранный критический отзыв говорит о быстром исчерпании интереса; выборка претензий сильно смещена внешними проблемами, поэтому общего вывода нет.",
+    "our_adaptation": "Песочница экспериментов со средой и устройствами, сохранение схем. Берём причинность и творчество, не жестокость как обязательный источник удовольствия.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "224700536",
+        "url": "https://steamcommunity.com/profiles/76561199256924840/recommended/1118200/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "229243219",
+        "url": "https://steamcommunity.com/profiles/76561199823731639/recommended/1118200/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "237620414",
+        "url": "https://steamcommunity.com/profiles/76561198016706253/recommended/1118200/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Игровая критика представлена слабо; не обобщать внешние споры."
+  },
+  {
+    "index": 31,
+    "game": "The Escapists",
+    "sample_unique_initial": 116,
+    "especially_valued": "Наблюдать правила, тайно собрать план, найти один из разных путей и наконец осуществить побег.",
+    "flow_breaker": "Неясные предметы, примитивный статовый бой и расписание без передышки.",
+    "our_adaptation": "Спасение допускает бой, обман, инструмент или способность существа. Наблюдение помогает плану; событие не требует много дней одинаковой подготовки.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "217127954",
+        "url": "https://steamcommunity.com/profiles/76561199215971525/recommended/298630/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "225123294",
+        "url": "https://steamcommunity.com/profiles/76561199812895416/recommended/298630/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "224789062",
+        "url": "https://steamcommunity.com/profiles/76561199083170538/recommended/298630/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "209290429",
+        "url": "https://steamcommunity.com/profiles/76561197977604145/recommended/298630/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 32,
+    "game": "Roots of Pacha",
+    "sample_unique_initial": 113,
+    "especially_valued": "Открытия возникают из жизни общины, семья растёт и участвует в мире; развитие ощущается естественным, а не купленным.",
+    "flow_breaker": "Некоторые игроки воспринимают поздний поворот истории как разрушение прежнего смысла труда.",
+    "our_adaptation": "Познание вида, одомашнивание и рецепты рождаются из помощи. Дальнейшая история уважает выбранную игроком роль, а не отменяет её ради неожиданности.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "215273790",
+        "url": "https://steamcommunity.com/profiles/76561198754432558/recommended/1245560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "221571779",
+        "url": "https://steamcommunity.com/profiles/76561198272920552/recommended/1245560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "225183520",
+        "url": "https://steamcommunity.com/profiles/76561198088249033/recommended/1245560/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 33,
+    "game": "WorldBox - God Simulator",
+    "sample_unique_initial": 133,
+    "especially_valued": "Пустить жизнь в мир и наблюдать непредсказуемые истории; собственный мир становится интересным даже без постоянного вмешательства.",
+    "flow_breaker": "Искусственные разблокировки мешают свободному творчеству; война как повторный исход обедняет наблюдение.",
+    "our_adaptation": "Экосистема вокруг героя отвечает на его действия и рождает мирные и опасные встречи. Инструменты творчества не запираются за социальными достижениями.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "208935094",
+        "url": "https://steamcommunity.com/profiles/76561198012128356/recommended/1206560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "226444379",
+        "url": "https://steamcommunity.com/profiles/76561198015685363/recommended/1206560/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "215674469",
+        "url": "https://steamcommunity.com/profiles/76561198393621048/recommended/1206560/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 34,
+    "game": "Pixel Piracy",
+    "sample_unique_initial": 52,
+    "especially_valued": "Построить свой корабль-команду, развиваться и искать приключение с долей случайности.",
+    "flow_breaker": "Долгие бои с уклонением, оглушением и многоступенчатые меню обрывают приключенческий ритм.",
+    "our_adaptation": "Экспедиционная команда, личный транспорт и находки; команды доступны прямо в игре. Противник требует решения, не минут безрезультатного обмена ударами.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "237151104",
+        "url": "https://steamcommunity.com/profiles/76561198060977778/recommended/264140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "213771692",
+        "url": "https://steamcommunity.com/profiles/76561198101458549/recommended/264140/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "209364353",
+        "url": "https://steamcommunity.com/profiles/76561198034131029/recommended/264140/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "218668578",
+        "url": "https://steamcommunity.com/profiles/76561198085993893/recommended/264140/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Малая выборка; вывод качественный."
+  },
+  {
+    "index": 35,
+    "game": "Core Keeper",
+    "sample_unique_initial": 125,
+    "especially_valued": "Исследовать, создать дом и собственную транспортную сеть; свободно переключаться между приключением, строительством и заботой.",
+    "flow_breaker": "Редкий обязательный дроп и бессмысленное повторение ради опыта.",
+    "our_adaptation": "Маршруты и транспорт делают знакомый мир удобнее; желаемая награда имеет гарантированный путь. Освоение растёт через новые применения, не удары по дешёвой стене.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "233381398",
+        "url": "https://steamcommunity.com/profiles/76561197970780219/recommended/1621690/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "231252273",
+        "url": "https://steamcommunity.com/profiles/76561198083775999/recommended/1621690/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "237044359",
+        "url": "https://steamcommunity.com/profiles/76561199197125114/recommended/1621690/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "212338101",
+        "url": "https://steamcommunity.com/profiles/76561197992071236/recommended/1621690/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 36,
+    "game": "Rise to Ruins",
+    "sample_unique_initial": 86,
+    "especially_valued": "Развить поселение, найти выгодный проход и испытать его оборону; поражение может стать материалом для следующего решения.",
+    "flow_breaker": "Позднее принуждение к одному способу игры и потолок строительства обесценивают выбор.",
+    "our_adaptation": "Защита проверяет свободный план; после потерь можно восстановиться и изменить стратегию, не теряя всё построенное вне добровольного риска.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "229109997",
+        "url": "https://steamcommunity.com/profiles/76561197970405710/recommended/328080/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "214608148",
+        "url": "https://steamcommunity.com/profiles/76561198367471798/recommended/328080/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "235084443",
+        "url": "https://steamcommunity.com/profiles/76561198067233529/recommended/328080/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 37,
+    "game": "Monster Sanctuary",
+    "sample_unique_initial": 115,
+    "especially_valued": "Собрать команду из понравившихся существ с настоящей синергией; способности помогают исследовать, навыки обещают глубину.",
+    "flow_breaker": "Обязательное освоение десятков пассивок и постоянная пересборка команды утомляют часть игроков.",
+    "our_adaptation": "Сочетания существ важны, но базовая история проходима с любимцем. Глубокая оптимизация — отдельные испытания; совместные действия объясняются визуально.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "209779513",
+        "url": "https://steamcommunity.com/profiles/76561199369113478/recommended/814370/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "233435656",
+        "url": "https://steamcommunity.com/profiles/76561198030560317/recommended/814370/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "220385440",
+        "url": "https://steamcommunity.com/profiles/76561198010239806/recommended/814370/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  },
+  {
+    "index": 38,
+    "game": "Monster Crown",
+    "sample_unique_initial": 32,
+    "especially_valued": "Вывести собственную необычную команду: разведение и fusion дают открытия и ощущение авторства.",
+    "flow_breaker": "Ошибки, неудобный интерфейс и нарушения сохранности прогресса разрушают радость выращивания.",
+    "our_adaptation": "Оригинальные линии потомства и ограниченные ручные гибриды с видимой новой чертой; заранее понятный результат и неприкосновенность родителей.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "221800194",
+        "url": "https://steamcommunity.com/profiles/76561198119794375/recommended/830370/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "208688291",
+        "url": "https://steamcommunity.com/profiles/76561198017202964/recommended/830370/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "230989393",
+        "url": "https://steamcommunity.com/profiles/76561197990913342/recommended/830370/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Малая выборка; вывод качественный."
+  },
+  {
+    "index": 39,
+    "game": "Siralim Ultimate",
+    "sample_unique_initial": 110,
+    "especially_valued": "Создать движок из способностей команды; новое свойство внезапно соединяет прежние детали и возникает сильное ощущение «я придумал».",
+    "flow_breaker": "Материальный гринд и бесконечная одинаковая проверка уже выигравшего движка.",
+    "our_adaptation": "Сохраняемые сборки, совместная тренировка и резонанс; дать проявиться эффектному комбо, затем предложить содержательное новое испытание, не дополнительную очередь кликов.",
+    "references": [
+      {
+        "role": "pleasure",
+        "review_id": "231431024",
+        "url": "https://steamcommunity.com/profiles/76561198023393925/recommended/1289810/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "pleasure",
+        "review_id": "224086990",
+        "url": "https://steamcommunity.com/profiles/76561198064717424/recommended/1289810/",
+        "recommendation_positive": true
+      },
+      {
+        "role": "friction",
+        "review_id": "214030068",
+        "url": "https://steamcommunity.com/profiles/76561197999818067/recommended/1289810/",
+        "recommendation_positive": false
+      },
+      {
+        "role": "friction",
+        "review_id": "212680150",
+        "url": "https://steamcommunity.com/profiles/76561197992579587/recommended/1289810/",
+        "recommendation_positive": false
+      }
+    ],
+    "confidence_note": "Качественный вывод по выбранным свидетельствам, не рейтинг предпочтений."
+  }
+]

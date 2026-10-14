@@ -1,0 +1,12 @@
+# Gradle / Build caches
+.gradle/
+**/build/
+**/app/build/
+local.properties
+*.iml
+.idea/
+
+# OS / Python caches
+__pycache__/
+*.pyc
+Thumbs.db

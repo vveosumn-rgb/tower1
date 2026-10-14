@@ -1,0 +1,626 @@
+[
+  {
+    "path": "01_дизайн-док.md",
+    "bytes": 6647,
+    "sha256": "cd4db7bc3e8575744d2643ce0027f8bd95bb094e501b5fdc59d6ec5e7a8b5fa1",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/BACKLOG.md",
+    "bytes": 22796,
+    "sha256": "12a4acd81b5ea568120a03c2922f08f3ebf0cf31d8452435d802e9e18d0d000a",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/DESIGN_INDEX.md",
+    "bytes": 9706,
+    "sha256": "61c9e90ae2d93cf32206c1d94d13b7ad64640e47a2c1162a75cc1fa6d4bef0f1",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/HANDOFF.md",
+    "bytes": 25037,
+    "sha256": "8fe5609d60054920ae598e6268ec31144ee2240989726da6f6599b626fe225b6",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_CHECKLIST.md",
+    "bytes": 3835,
+    "sha256": "b76fe6b45dd43567e5915f28c486f700c141263f0226e8713d610844d95043d0",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/QA_R01.md",
+    "bytes": 4999,
+    "sha256": "579b739eab756593a06aa6a414a335197be2cb2d40eb16da5e72fd431a918129",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R02.md",
+    "bytes": 10793,
+    "sha256": "106e96a4b06d46b665fce99841fa3c2ba8d383a23753029f3229c71d33af4612",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R03.md",
+    "bytes": 15073,
+    "sha256": "f98388c3c3267c7e2941a3d579eae3b8f5121cf6fd49c9b8ffb66be312b78837",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R04.md",
+    "bytes": 14582,
+    "sha256": "7b349c671e6d0d39f24c678b55d79b8c4c9c2b363047e2efd3a1c58a10a3d88f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R05.md",
+    "bytes": 7198,
+    "sha256": "988a8056f7acb2f71a231ec63a78fdf3e294f54bb25e6397d66c48e6845d25f4",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R06.md",
+    "bytes": 4886,
+    "sha256": "e17d9793ef8cd37567898c6bf553b988aa6f06f2e429c7dcdd7cf2eb6e2e67ea",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R07.md",
+    "bytes": 3327,
+    "sha256": "5a1ee80524d569a86757146bfdafc625ea2455184a328a2eb5767095c7afe267",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R08.md",
+    "bytes": 3811,
+    "sha256": "f5aa502f0d805a509b27e9cd301f17e16ab4695e026aa60c92436b5105590db2",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R09.md",
+    "bytes": 3233,
+    "sha256": "e17381c673270df2d7804a6b95a2f5110d7158647d3db6f054549747bd857158",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R10.md",
+    "bytes": 3773,
+    "sha256": "e76c603816469cc11a37221829f72119e17153a086532680c0cc27574c9d7c58",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R11.md",
+    "bytes": 3692,
+    "sha256": "dad6b67b8a22866e02aa9874efdde7dcd32fbf8b2ce0bb9dec611cd6242c489f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R12.md",
+    "bytes": 4900,
+    "sha256": "ca7877fbf35d4d0b39e25b3dc6660ca1bbd966903630bac3be2698f2efbe2f01",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R13.md",
+    "bytes": 3874,
+    "sha256": "0e9579c2e2a47589b21f20c2504927066f3dc338d39159179c22470520cea6c1",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R14.md",
+    "bytes": 2548,
+    "sha256": "70540135beeb05be1ddcf2dfc52ea0a2401fb6a8579bf850251086ea46c9099b",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/QA_R15.md",
+    "bytes": 3531,
+    "sha256": "5dc85526608b7510ad88ccd5af770cee8e9473db463508f7769e46162a653c51",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/ROUND_CONTRACT.md",
+    "bytes": 8936,
+    "sha256": "0109189039d9a4704a0b9b6fe20684920aca3e4a16aede8d48bbdd086da06893",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/RULES.md",
+    "bytes": 6665,
+    "sha256": "02143a966186f1373809cba420eee855251c59e7def04647358e92558ec5f792",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/VISION.md",
+    "bytes": 14543,
+    "sha256": "feab538af6f20a249b990ccc1d2e3e0c83e9f5046e6e303d0d4ba027df0d0b1f",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/ALL_39_INTEGRATION.md",
+    "bytes": 28580,
+    "sha256": "2487ece1557f4e1f0f82887b1248494cced5c3beff1425c7d3d8299f8de7bcfd",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/ART_DIRECTION.md",
+    "bytes": 6154,
+    "sha256": "076c768b5f8900a903274b7a3e02dbcfd584f4e155175533c4027eee584d6efc",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/AUDIT_V2.md",
+    "bytes": 6362,
+    "sha256": "fe7ed03a2d125e0a97a223d5b085678f9b550023b302ac5c5435c12c42de2510",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/BACKLOG.md",
+    "bytes": 7854,
+    "sha256": "1cf6e799c9f3c48f071cc4d1b0a055600b996887f8f62ad37767f958f9ad036c",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/DIRECTION_CHANGE.md",
+    "bytes": 3066,
+    "sha256": "f1d9d04445e7a428191383ef513e33bc796cddad3300bceb527aacffa8e57ec1",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/INDEX.md",
+    "bytes": 2110,
+    "sha256": "b2b6959c2b4a4531f669e35f659cfaed42ee07b63ee3d3bbe1069ef7bb86186f",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/INTEGRATION_V2.md",
+    "bytes": 22562,
+    "sha256": "52cbfdc3151a789d505d3d9b7dfd6a186370c4c2b9b4e7e19447981a7eaeee54",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/NEXT_10_ROUNDS.md",
+    "bytes": 13532,
+    "sha256": "0948e40211d0162ae3d6c3fa8304dbac08456965d29e3edf21aa6c1cb93f3585",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/PET_SYSTEM.md",
+    "bytes": 13895,
+    "sha256": "597fbd846efaeed7896e3ee6ec86db49b9acc429486bcc3ee1094afe5e42c459",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/Pixel-RPG-Integration-v2.pdf",
+    "bytes": 78683,
+    "sha256": "5335534a53413f936e7e27e348a889c4f544eed35cfe443a7502c4902438db25",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/ROUND_CONTRACT.md",
+    "bytes": 10018,
+    "sha256": "f2ec3f310e2c6ccc325691658e88efd30a827744a5f095027623e8c65be7e096",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/SPECIES_V2.md",
+    "bytes": 9340,
+    "sha256": "d771c4b6fa1f5a45e55da212c03783208610a9b34c2c63c867b6d03bab4fafc5",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/START_HERE.md",
+    "bytes": 1575,
+    "sha256": "b15c817220848def72bed19f92c2676c1d80f964c3f689d82e35e2a6418e88bb",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/VISION.md",
+    "bytes": 12927,
+    "sha256": "6438546e9a90975ab3d19b29bee7f93238004f02d7ef19d2113a3d4803507b14",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/integration-matrix.json",
+    "bytes": 29116,
+    "sha256": "48c2060033b21f2a4e2d052a639d9d83fd85b8d5c32456fb41ce21af86a713f2",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/original-research/GAME_RESEARCH.md",
+    "bytes": 53749,
+    "sha256": "010f05e4c3ee078397db4a5f439c82ee83db12d671b6840a175035b0de458e5d",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_pixel_rpg_v2/original-research/catalog.json",
+    "bytes": 24027,
+    "sha256": "2f70b959660bf030ac0d4f9532f84c9b5f5e0e5ddfaab1672753aeb5dcaf39d8",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/CREATURES_V3.md",
+    "bytes": 17556,
+    "sha256": "ebfe38cad49b431c37fae047dfc3c9cf26a871a37977ebf5d606f9b59c73c2e0",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/FLOW_FIRST_V3.md",
+    "bytes": 26020,
+    "sha256": "4981f742604b90ad395a9a2cd23fc5a35fb6ea5e2be390626930298135c51352",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/INDEX.md",
+    "bytes": 895,
+    "sha256": "de6d82460931d31bf790466028d5af1c72cbece201b00b9831970c87980892c3",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/PLAYER_EVIDENCE_39.json",
+    "bytes": 65574,
+    "sha256": "5f6cdd31aeb01717de16726973aa9d49b2aa2e605f7988614e06128863cc3e90",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/PLAYER_FAVORITES_39.md",
+    "bytes": 55297,
+    "sha256": "c82e2d35c25f32401c7b7ee61679034f29048ba26cdc1a7dfa2699eb9410763c",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/PLAYTEST_FLOW.md",
+    "bytes": 6080,
+    "sha256": "f235061310daae68ede872ba7e51f8ef546501b5570fdd23d01eda24686ef8cc",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/RESEARCH_METHOD.md",
+    "bytes": 7257,
+    "sha256": "f66d6e006d60aa3d582f6cbd54405125f6ee8224ccd64110569ba838a0bc7ee2",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/design_v3/START_HERE.md",
+    "bytes": 1617,
+    "sha256": "236772460dd35e6ace84bb98b743b7987b4746f79b752478fcc19efd8aaaa309",
+    "role": "source"
+  },
+  {
+    "path": "PIPELINE/evidence_r08/README.md",
+    "bytes": 2711,
+    "sha256": "7dd94116a0e8dedbcb3586023b8fd04f10d942c1e6f0679daea6e10308d2536b",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r08/summary.json",
+    "bytes": 522,
+    "sha256": "3d217d7fe8cc831a407895cceab0e04a3d7452aed713d28b35c6c3765d6b8a1f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r09/RESULTS.md",
+    "bytes": 1893,
+    "sha256": "89920c7a085745269e3644c2ec9135efc9abfe31293eb511802042d65b942da1",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r10/RESULTS.md",
+    "bytes": 2810,
+    "sha256": "d96d21f3222272793fb6d02c79eb03051b979d06df94f9a3ca2ead04f6af468f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r11/RESULTS.md",
+    "bytes": 5969,
+    "sha256": "8bf421883e34f6bdcf39b02f49560608e9166158e42edb5a9e0eec6a40361d5e",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r11/test-summary.json",
+    "bytes": 81,
+    "sha256": "8c8836e501a700cbdf5e580e312cb230ba693e6ba6a79aca80c3b9bea8d759fe",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r12/RESULTS.md",
+    "bytes": 9553,
+    "sha256": "f308a75f9c748289e27f64ce1cff681b93a82873514883ddcfa49dad11df68c6",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r12/test-summary.json",
+    "bytes": 87,
+    "sha256": "85afc8365c2dd636373ce44c7378ee59a3db04205dbbbc7c92c4009491cc2888",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r13/RESULTS.md",
+    "bytes": 7470,
+    "sha256": "caaecca083ebbe052a1f5d1ae8ebe0a39cf6f0ab34cc42c151706404cefaeb20",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r13/test-summary.json",
+    "bytes": 87,
+    "sha256": "690f368d0812721da9a35916afac52a6d2a82903f179d3af47c7478f7e927c9d",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r14/RESULTS.md",
+    "bytes": 4636,
+    "sha256": "f3364d080349346a951aa747a821c64a163df71d9d7234a877cc6300aee1cdbe",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r14/test-summary.json",
+    "bytes": 66,
+    "sha256": "5e0fe9512cb238c398a83fe94778f393bb37b0e2041464b3745825f619df797e",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r15/RESULTS.md",
+    "bytes": 6076,
+    "sha256": "31ccfc55bb4b4009ac9af01ae7d7a3fa89acecad6c510b8afddcae758dfeb92d",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/evidence_r15/test-summary.json",
+    "bytes": 66,
+    "sha256": "abef063abfc31d4e637795cfe3c3672ab642c48f5942e319b85198d6931ddf11",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/handoff/START_HERE.md",
+    "bytes": 15068,
+    "sha256": "bb917a950e886bdc2a40e22b22f938db55e59c99825bf79e373d70b3aff936c0",
+    "role": "status_or_history"
+  },
+  {
+    "path": "PIPELINE/handoff/START_PROMPT.md",
+    "bytes": 20714,
+    "sha256": "90d85b5296d9354465c67ef02438d23c0a6c2822222a6e590f3423c89972fee0",
+    "role": "status_or_history"
+  },
+  {
+    "path": "README.md",
+    "bytes": 26045,
+    "sha256": "dbe68720d21ada5c00d787ef9ddc46a0f8cc5429d78ea3cf1988b857cd5d221b",
+    "role": "status_or_history"
+  },
+  {
+    "path": "RECOVERY_STATUS.md",
+    "bytes": 2305,
+    "sha256": "ec033528a0fecb3f7a952596c000d40ddb5cfa8ebfa7af821a2bbb56c58ff806",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/AUDIT_R05.md",
+    "bytes": 4767,
+    "sha256": "d0f067916ad605d78eb66917ec65c890b6c444b2c0cdfd5af0824e51dd9a524b",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/CODE_MAP.md",
+    "bytes": 17399,
+    "sha256": "01bcd08b4f4a92d15b6afa36892d8db538bb6a3bd07a52768318b7eb3451f0fd",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COMPANIONS_AND_REACTIONS.md",
+    "bytes": 15539,
+    "sha256": "d8777cf660c44613d1fb21aac66ed6d2ffbe883ca73dfe8162e7894bba16c673",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/CONTROLS.md",
+    "bytes": 9600,
+    "sha256": "ed0cebece4e07984d7b109989c9ceeac9433e6bf33b3dc500b04ee5040b55885",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/CONTROLS_RESEARCH_R05.md",
+    "bytes": 4886,
+    "sha256": "b1b9addbe933375896158a65db6c782634f2356046346a7ca5cbe34e2e712f8f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R06.md",
+    "bytes": 40361,
+    "sha256": "d8aa423075ce3f59ef5c9c0c3b90a2fd131771aac2be82156fea432e95a0f1d1",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R07.md",
+    "bytes": 2858,
+    "sha256": "c512dcc0a8c8fc8974f7e8e5546097e54fb65f4ff716de291f453d0ccb77ebea",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R08.md",
+    "bytes": 2542,
+    "sha256": "91955c13192682731a1e6b7b01f42f28df68d61794b11eb6c132d2a464825fc8",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R09.md",
+    "bytes": 1820,
+    "sha256": "57ca976d0b5bc693056a6d38d666dbf381654141e96c3c958c83a6ff1189caed",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R10.md",
+    "bytes": 1686,
+    "sha256": "3131c3e3bbeb3acd392d8708388fd57c7a188d7b0187a8f0f7b036bb6ef4b62d",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R11.md",
+    "bytes": 2280,
+    "sha256": "b707ec26b483f5de717d0eb02bb7adfdd7bbad4c5db89d7e3426c693e4128c8c",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R12.md",
+    "bytes": 1978,
+    "sha256": "b1143fe2c3114af7b006eaeae3694cb34c4827b60de73bad96cf4b1d38e6f401",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R13.md",
+    "bytes": 1468,
+    "sha256": "5c8e7329b3f2fcaca78720f88db71e38d77b0f54c9bccd9d39bd200f13888b51",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R14.md",
+    "bytes": 1590,
+    "sha256": "70783bf66b52a6e874fcf58891a397756219f9b7f3e4b05a4734a46d280d3d05",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/COVERAGE_R15.md",
+    "bytes": 1894,
+    "sha256": "e0f630a0112a826440db141366f581cf66538aa540ec7a2380a2b395c9158147",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/DOCUMENT_INVENTORY_R04.json",
+    "bytes": 76158,
+    "sha256": "7a4bf1071f88d1925f2b3fd42955ccab3a10ab3f29f5a493e5d8ec2452f2d1b1",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/ENEMIES_AND_BOSSES.md",
+    "bytes": 16846,
+    "sha256": "8b08362b3505d6522ce270fda04b5031c0a55743272ea1b4775962778c4d7c1c",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/GRAPHICS_BIBLE.md",
+    "bytes": 17847,
+    "sha256": "ad52b32887827fe1fc871682f0578101267ae48d15c551d0c6f77245e975ef5a",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/GRAPHICS_PRESETS.md",
+    "bytes": 11536,
+    "sha256": "3f01d7a3129fc685ce063080b55176a1cb1b00539b5099e156f59c6fdca99ab7",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/MECHANICS_COVERAGE.md",
+    "bytes": 57275,
+    "sha256": "6cb2244580d916900d4dc6d9ac3f9099d4cd512a60558e08a27f961777e3d251",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/ONBOARDING.md",
+    "bytes": 20071,
+    "sha256": "8a1e0779158161611fdc55bda9aff3e6a4c3a48f55707ee25577487c343f022d",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/PLAYTEST_R04.md",
+    "bytes": 7039,
+    "sha256": "9dd327ac45672b7125131fbcdc0da4a35e23d952fd0a9bd688bce3c0d7fd8235",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/PLAYTEST_R05.md",
+    "bytes": 2515,
+    "sha256": "49a670a97f0050a55c0275f84800418420da1f9c9d5479afde34a8f65c685242",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/REVIEW_R06.md",
+    "bytes": 3552,
+    "sha256": "b29e122d97715a57e5a15d791100d57dd37b328caafdf83cb27ddaa69ec4e62a",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/ROADMAP.md",
+    "bytes": 21296,
+    "sha256": "7e5da6070fad91d672368be6915874f68d3ffc5243da0e076b593f9ed99f14a3",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/SCREENSHOT_INDEX.md",
+    "bytes": 7211,
+    "sha256": "d2f278480246d8955a035065ccb4739df4ef0267ed86ffd0cb89519a5adf122a",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/SETUP.md",
+    "bytes": 14707,
+    "sha256": "67b405a34fa5f3eb8fcfde48d8ca95dc725076de46428f59ec42cb50aab1335e",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R06.md",
+    "bytes": 10145,
+    "sha256": "7052f94eb880598f5d4ba4999f9296801d54aad584ba584d88af7b096655c47e",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R07.md",
+    "bytes": 9944,
+    "sha256": "3a1df7195c5acc14ccda5f5f36ad52d14512ffc5d55a9d7a11a9238f55225a7f",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R08.md",
+    "bytes": 6999,
+    "sha256": "606c4a558c1729beab8c9f9a4ba65e10e6918d6aa8f036f1b224589396a427de",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R09.md",
+    "bytes": 7934,
+    "sha256": "4225e48023daea02bd2ac272561eb56813099ef79e8f7abd4fdea3a0b4c2fbe5",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R10.md",
+    "bytes": 8515,
+    "sha256": "639c9dc68f2d4bc18235392cbe69f28608f0236fea447862c063317072100f74",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R11.md",
+    "bytes": 6735,
+    "sha256": "fdd363d962894a93dc0b8f79130534f8199af6fc6949616d63d09e53d7617c69",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R12.md",
+    "bytes": 8524,
+    "sha256": "3a652fc72c50c18678bbca09c412de0815638c5e3811b4a96f654f3207bfa39e",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R13.md",
+    "bytes": 6847,
+    "sha256": "62d433b7da3ab9e5cda82688424e954020198223075cfe09aac7d3c3303a04c6",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R14.md",
+    "bytes": 7223,
+    "sha256": "de2c760dd4d599c941ba4407628f79fc7fd6322960d0ceefa2fc07dcd4002836",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/STATUS_R15.md",
+    "bytes": 6529,
+    "sha256": "7af014ea3128669da044c8e8ade6dee3c22eaffa6d2d3bdb2b205feec8d8b7e2",
+    "role": "status_or_history"
+  },
+  {
+    "path": "docs/UPGRADES_AND_EVOLUTIONS.md",
+    "bytes": 17550,
+    "sha256": "81e22338cde7ead121df3a98560a4a64d73569420d9301128b43491c682a3d71",
+    "role": "status_or_history"
+  }
+]

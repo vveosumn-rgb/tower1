@@ -1,0 +1,58 @@
+[
+  {
+    "file": "r08-expedition-matrix.csv",
+    "identical": false
+  },
+  {
+    "file": "r09-resonance-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r10-forms-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r10-hybrid-combat.csv",
+    "identical": true
+  },
+  {
+    "file": "r10-hybrid-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r11-guardian-trace.csv",
+    "identical": true
+  },
+  {
+    "file": "r11-routes-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r12-final-rematch-trace.csv",
+    "identical": true
+  },
+  {
+    "file": "r12-keepers-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r12-rematches-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r12-slow-builds-trace.csv",
+    "identical": true
+  },
+  {
+    "file": "r13-ranger-counter-matrix.csv",
+    "identical": true
+  },
+  {
+    "file": "r15-team-cover-matrix.csv",
+    "identical": false
+  },
+  {
+    "file": "r16-shield-routes.csv",
+    "identical": true
+  }
+]

@@ -1,0 +1,1689 @@
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:compileDebugKotlin UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:dexBuilderDebug UP-TO-DATE
+> Task :app:mergeDebugGlobalSynthetics UP-TO-DATE
+> Task :app:processDebugJavaRes UP-TO-DATE
+> Task :app:mergeDebugJavaResource UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeDebugStartupProfile UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:mergeProjectDexDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs NO-SOURCE
+> Task :app:stripDebugDebugSymbols NO-SOURCE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:packageDebug UP-TO-DATE
+> Task :app:createDebugApkListingFileRedirect UP-TO-DATE
+> Task :app:assembleDebug UP-TO-DATE
+> Task :app:bundleDebugClassesToRuntimeJar UP-TO-DATE
+> Task :app:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :app:compileDebugUnitTestKotlin UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:packageDebugUnitTestForUnitTest UP-TO-DATE
+> Task :app:generateDebugUnitTestConfig UP-TO-DATE
+> Task :app:processDebugUnitTestJavaRes UP-TO-DATE
+
+> Task :app:testDebugUnitTest
+
+com.tavernrush.game.AdventureTest > dryIceRuneSlowsWithoutFalseFreeze PASSED
+
+com.tavernrush.game.AdventureTest > waterRecipeAddsActualWeapon PASSED
+
+com.tavernrush.game.AdventureTest > recipeUnlockIsPaidOnce PASSED
+
+com.tavernrush.game.AdventureTest > solvedSchemeCheckedOnDecode PASSED
+
+com.tavernrush.game.AdventureTest > blueprintNeedsRescueAndMaterial PASSED
+
+com.tavernrush.game.AdventureTest > profileSavesAdventureAndUnknownFields PASSED
+
+com.tavernrush.game.AdventureTest > hostPauseHasNoArenaPendingReward PASSED
+
+com.tavernrush.game.AdventureTest > pipeRotationBoundsAreSafe PASSED
+
+com.tavernrush.game.AdventureTest > heroActionsResetOnNewRun PASSED
+
+com.tavernrush.game.AdventureTest > directionalShieldBlocksFrontButNotBack PASSED
+
+com.tavernrush.game.AdventureTest > shieldCannotBlockEnvironmentalDamage PASSED
+
+com.tavernrush.game.AdventureTest > returnKeepsFlags PASSED
+
+com.tavernrush.game.AdventureTest > pipePackedRoundtrip PASSED
+
+com.tavernrush.game.AdventureTest > expeditionStartsAtCamp PASSED
+
+com.tavernrush.game.AdventureTest > sourceCannotBeCollectedTwice PASSED
+
+com.tavernrush.game.AdventureTest > pauseBlocksWorldInteraction PASSED
+
+com.tavernrush.game.AdventureTest > rescueNeedsSafeArea PASSED
+
+com.tavernrush.game.AdventureTest > crossSpeciesNotCalledNaturalBreeding PASSED
+
+com.tavernrush.game.AdventureTest > successfulEarlyParryCountersEnemy PASSED
+
+com.tavernrush.game.AdventureTest > lineageRoundtrip PASSED
+
+com.tavernrush.game.AdventureTest > pipeDefaultSolutionReachesExit PASSED
+
+com.tavernrush.game.AdventureTest > rangerTrapActuallySlows PASSED
+
+com.tavernrush.game.AdventureTest > selectedIndividualIsActualMate PASSED
+
+com.tavernrush.game.AdventureTest > regionalPalettesAreDifferent PASSED
+
+com.tavernrush.game.AdventureTest > collectedGoldIsIncrementalAndDurable PASSED
+
+com.tavernrush.game.AdventureTest > musicIsOriginalDeterministicFiniteAndAudible PASSED
+
+com.tavernrush.game.AdventureTest > repeatedOperationDoesNotCharge PASSED
+
+com.tavernrush.game.AdventureTest > boundsClampHero PASSED
+
+com.tavernrush.game.AdventureTest > abandonedContractHasNoReward PASSED
+
+com.tavernrush.game.AdventureTest > heavyOpensOnlyMarkedWall PASSED
+
+com.tavernrush.game.AdventureTest > rangerHookDoesNotPullBoss PASSED
+
+com.tavernrush.game.AdventureTest > regionsKeepIndependentFlags PASSED
+
+com.tavernrush.game.AdventureTest > sheltersHaveCooldownAndDurability PASSED
+
+com.tavernrush.game.AdventureTest > openedWaterCannotBeFarmed PASSED
+
+com.tavernrush.game.AdventureTest > botUsesRealMovementToOpenRoute PASSED
+
+com.tavernrush.game.AdventureTest > pipeResetIsPuzzle PASSED
+
+com.tavernrush.game.AdventureTest > progressCopyIsDeep PASSED
+
+com.tavernrush.game.AdventureTest > invalidStateRejected PASSED
+
+com.tavernrush.game.AdventureTest > defenceRequiresSavedMaster PASSED
+
+com.tavernrush.game.AdventureTest > environmentSharesFiniteReactions PASSED
+
+com.tavernrush.game.AdventureTest > waterSavesImmediately PASSED
+
+com.tavernrush.game.AdventureTest > arenaDoesNotActivateAdventure PASSED
+
+com.tavernrush.game.AdventureTest > lureDoesNotTeleportOrInstantRescue PASSED
+
+com.tavernrush.game.AdventureTest > dailyRouteIndependentOfOperationCounter PASSED
+
+com.tavernrush.game.AdventureTest > waitingRescuedAnimalCanBeCollected PASSED
+
+com.tavernrush.game.AdventureTest > invalidBlueprintIsNotSaved PASSED
+
+com.tavernrush.game.AdventureTest > remoteEnemyDoesNotPreventRescue PASSED
+
+com.tavernrush.game.AdventureTest > growsByDiscoveryNotClock PASSED
+
+com.tavernrush.game.AdventureTest > guardianNeedsWaterNotPet PASSED
+
+com.tavernrush.game.AdventureTest > adultNeverBecomesYoungAfterDiscovery PASSED
+
+com.tavernrush.game.AdventureTest > defenceIsThreeFiniteWaves PASSED
+
+com.tavernrush.game.AdventureTest > pauseFreezesAllAdventureTimers PASSED
+
+com.tavernrush.game.AdventureTest > youngParentNotAllowed PASSED
+
+com.tavernrush.game.AdventureTest > contractRematchPreservesWorld PASSED
+
+com.tavernrush.game.AdventureTest > heroSwitchDoesNotCancelCooldown PASSED
+
+com.tavernrush.game.AdventureTest > contractPaidCannotExceedCounter PASSED
+
+com.tavernrush.game.AdventureTest > wallPreventsDirectCrossing PASSED
+
+com.tavernrush.game.AdventureTest > runeFreezesActualEnemy PASSED
+
+com.tavernrush.game.AdventureTest > capacityDoesNotDeleteOrCharge PASSED
+
+com.tavernrush.game.AdventureTest > trainingRequiresDiscoveriesAndKeepsIdentity PASSED
+
+com.tavernrush.game.AdventureTest > breedingPreservesParentsAndChosenTrait PASSED
+
+com.tavernrush.game.AdventureTest > sameParentNotAllowed PASSED
+
+com.tavernrush.game.AdventureTest > iceIsBounded PASSED
+
+com.tavernrush.game.AdventureTest > scoutRewardsExactlyOnce PASSED
+
+com.tavernrush.game.AdventureTest > craftingBlockedDuringRun PASSED
+
+com.tavernrush.game.AdventureTest > pipeRotationIsCyclic PASSED
+
+com.tavernrush.game.AdventureTest > stormWarningPrecedesCharge PASSED
+
+com.tavernrush.game.AdventureVisualTest > lineageHasExplicitSecondConfirmation PASSED
+
+com.tavernrush.game.AdventureVisualTest > workshopRotationAndSaveAreReal PASSED
+
+com.tavernrush.game.AdventureVisualTest > abilityButtonsDoNotOverlapMovementOrDash PASSED
+
+com.tavernrush.game.AdventureVisualTest > actualScreensFitAndRenderThreeSizes PASSED
+
+com.tavernrush.game.AdventureVisualTest > worldTouchesNeverStealMovement PASSED
+
+com.tavernrush.game.AdventureVisualTest > menuWorldButtonIsSeparateAndWorks PASSED
+
+com.tavernrush.game.AdventureVisualTest > expeditionContextButtonActuallyReturns PASSED
+
+com.tavernrush.game.AdventureVisualTest > climateFramesAndDefenceStates PASSED
+
+com.tavernrush.game.ArsenalTest > weakerAuraDoesNotEraseStrongTrapOrFrostSlow PASSED
+
+com.tavernrush.game.ArsenalTest > rerollsChargeTenThenTwentyAndStopAtTwo PASSED
+
+com.tavernrush.game.ArsenalTest > bellDealsDamage PASSED
+
+com.tavernrush.game.ArsenalTest > failedChoiceDoesNotConsumeOfferOrRecordPick PASSED
+
+com.tavernrush.game.ArsenalTest > cauldronDealsDamage PASSED
+
+com.tavernrush.game.ArsenalTest > predictiveSteeringRemainsDeterministicAndFinite PASSED
+
+com.tavernrush.game.ArsenalTest > unknownHeroFromFutureVersionFallsBackWithoutErasingField PASSED
+
+com.tavernrush.game.ArsenalTest > criticalHitUsesExplicitMultiplier PASSED
+
+com.tavernrush.game.ArsenalTest > dodgePreventsDamageAndInvalidDamageCannotPoisonHealth PASSED
+
+com.tavernrush.game.ArsenalTest > synergyActivatesWithoutCreatingExtraSlots PASSED
+
+com.tavernrush.game.ArsenalTest > rerollsDoNotRerollJackpotOrCountExtraTavernVisits PASSED
+
+com.tavernrush.game.ArsenalTest > poorHeroCannotRerollForFree PASSED
+
+com.tavernrush.game.ArsenalTest > jackpotPaysExactlyOnceAfterValidChoice PASSED
+
+com.tavernrush.game.ArsenalTest > everyEvolutionBoostsOnceAndDoesNotStackOnRecompute PASSED
+
+com.tavernrush.game.ArsenalTest > smartBotPrefersEmergencyHealingToMorePower PASSED
+
+com.tavernrush.game.ArsenalTest > beamHitsAlignedTargetsButNotEnemiesBesideIt PASSED
+
+com.tavernrush.game.ArsenalTest > heroChoicePersistsAndCannotChangeMidRun PASSED
+
+com.tavernrush.game.ArsenalTest > smartBotTakesReadyEvolution PASSED
+
+com.tavernrush.game.ArsenalTest > expiredSlowDoesNotBecomePermanent PASSED
+
+com.tavernrush.game.ArsenalTest > ravenDealsDamage PASSED
+
+com.tavernrush.game.ArsenalTest > frostBoltsDealDamage PASSED
+
+com.tavernrush.game.ArsenalTest > trapDealsDamage PASSED
+
+com.tavernrush.game.ArsenalTest > levelUpEmergencyDoesNotSpendRunGoldOnHealingRerolls PASSED
+
+com.tavernrush.game.ArsenalTest > lifeStealUsesActualDamageNotOverkill PASSED
+
+com.tavernrush.game.ArsenalTest > newContentHasTwelveWeaponsFourHeroesAndSixRecipes PASSED
+
+com.tavernrush.game.ArsenalTest > survivalAndModerateKillsFundAnEarlyPermanentUpgrade PASSED
+
+com.tavernrush.game.ArsenalTest > readyEvolutionIsGuaranteedInOffers PASSED
+
+com.tavernrush.game.ArsenalTest > recipesRequireMaximumWeaponAndSpecifiedPassiveLevel PASSED
+
+com.tavernrush.game.ArsenalTest > eachHeroStartsWithOwnWeaponAndTraits PASSED
+
+com.tavernrush.game.ArsenalTest > sunbeamDealsDamage PASSED
+
+com.tavernrush.game.ArsenalTest > healingAuraActuallyRestoresHealth PASSED
+
+com.tavernrush.game.ArtSheetTest > enemies PASSED
+
+com.tavernrush.game.ArtSheetTest > bosses PASSED
+
+com.tavernrush.game.ArtSheetTest > heroes PASSED
+
+com.tavernrush.game.ArtSheetTest > creaturesAct PASSED
+
+com.tavernrush.game.ArtSheetTest > props PASSED
+
+com.tavernrush.game.ArtSheetTest > bossesAttack PASSED
+
+com.tavernrush.game.ArtSheetTest > creatures PASSED
+
+com.tavernrush.game.ArtSheetTest > enemies2 PASSED
+
+com.tavernrush.game.Boss12DiagnosticTest > traceSlowBuildsWithoutForcingOutcome PASSED
+
+com.tavernrush.game.Boss12DiagnosticTest > traceFinalRematch PASSED
+
+com.tavernrush.game.Boss12SoakTest > sixRematchesRetainPersistentChanges PASSED
+
+com.tavernrush.game.Boss12SoakTest > newKeeperRoutesAcrossFourHeroes PASSED
+
+com.tavernrush.game.Boss12Test > visibleWaveOpeningActuallyPreventsDamage PASSED
+
+com.tavernrush.game.Boss12Test > finalPhaseRequiresDifferentSequence PASSED
+
+com.tavernrush.game.Boss12Test > narrowCenterLineIsNotEnoughForKnife PASSED
+
+com.tavernrush.game.Boss12Test > hintsFollowActualLockedAttack PASSED
+
+com.tavernrush.game.Boss12Test > actionEntersRecoveryWithoutSecondAttack PASSED
+
+com.tavernrush.game.Boss12Test > mapPauseStillStopsNewBossTimers PASSED
+
+com.tavernrush.game.Boss12Test > invalidRayCannotMakeHazard PASSED
+
+com.tavernrush.game.Boss12Test > prismLanceClipsItsActualTelegraph PASSED
+
+com.tavernrush.game.Boss12Test > leavingOpeningCanStillCauseDamage PASSED
+
+com.tavernrush.game.Boss12Test > arenaHealthIsNotReduced PASSED
+
+com.tavernrush.game.Boss12Test > rootWaveHasWideVisibleOpening PASSED
+
+com.tavernrush.game.Boss12Test > triadDoesNotCoverCenterInOpenField PASSED
+
+com.tavernrush.game.Boss12Test > clippedBeamCannotHurtBehindStone PASSED
+
+com.tavernrush.game.Boss12Test > gapEdgeAccountsForPlayerBody PASSED
+
+com.tavernrush.game.Boss12Test > noNewKeeperSummonsEndlessAdds PASSED
+
+com.tavernrush.game.Boss12Test > sixStableBossIds PASSED
+
+com.tavernrush.game.Boss12Test > openKnifeLineStillAllowsAttack PASSED
+
+com.tavernrush.game.Boss12Test > victoryCancelsOwnedHazards PASSED
+
+com.tavernrush.game.Boss12Test > openingGateRestoresLongBeam PASSED
+
+com.tavernrush.game.Boss12Test > pooledHazardCannotInheritOldGap PASSED
+
+com.tavernrush.game.Boss12Test > bodyAtRingCenterIsNotFalselySafe PASSED
+
+com.tavernrush.game.Boss12Test > forkLeavesCentralCorridor PASSED
+
+com.tavernrush.game.Boss12Test > recoveryHintDoesNotPromiseInvulnerability PASSED
+
+com.tavernrush.game.Boss12Test > finiteBeamEndsBeforeWall PASSED
+
+com.tavernrush.game.Boss12Test > telegraphsDoNotFollowPlayerAfterCasting PASSED
+
+com.tavernrush.game.Boss12Test > oldBossDoesNotInheritNewHint PASSED
+
+com.tavernrush.game.Boss12Test > phaseUnlocksNewActionNotJustHealth PASSED
+
+com.tavernrush.game.Boss12Test > phaseChangePausesAndCancelsPendingPattern PASSED
+
+com.tavernrush.game.Boss12Test > knifeAimsFromActualLaunchOrigin PASSED
+
+com.tavernrush.game.Boss12Test > forkCorridorDoesNotHitButLaneDoes PASSED
+
+com.tavernrush.game.Boss12Test > originalEnemyIndicesUnchanged PASSED
+
+com.tavernrush.game.Boss12Test > solidPartOfWaveActuallyHurts PASSED
+
+com.tavernrush.game.Boss12Test > everyPatternWarnsBeforeDamage PASSED
+
+com.tavernrush.game.Boss12Test > modelsHaveDistinctAnatomy PASSED
+
+com.tavernrush.game.Boss12Test > oldRingHasNoSafeOpening PASSED
+
+com.tavernrush.game.Boss12Test > newAttackHasImpactPoseBeforeRecovery PASSED
+
+com.tavernrush.game.Boss12Test > threeInitialPatternsAreNotTheSame PASSED
+
+com.tavernrush.game.Boss12Test > everySequenceHasBoundedHazardCount PASSED
+
+com.tavernrush.game.Boss12Test > recoveryWindowExistsAfterWarning PASSED
+
+com.tavernrush.game.Boss12Test > rayInsideWallCannotMakeInvisibleDamage PASSED
+
+com.tavernrush.game.Boss12Test > regionsHaveSixDifferentKeepers PASSED
+
+com.tavernrush.game.Boss12Test > gapWorksAcrossAngleWrap PASSED
+
+com.tavernrush.game.Boss12Test > lastPrismPhaseAddsOffsetLane PASSED
+
+com.tavernrush.game.Boss12Test > allAnatomyAndAttackPosesAreFinite PASSED
+
+com.tavernrush.game.Boss12VisualTest > moreThanSixteenExplicitLinesAreNotSilentlyLost PASSED
+
+com.tavernrush.game.Boss12VisualTest > originalModelsAnimateAndAreNotRecolours PASSED
+
+com.tavernrush.game.Boss12VisualTest > allNewKeepersAndWarningsRenderAtThreeSizes PASSED
+
+com.tavernrush.game.Boss12VisualTest > guideCanBeReachedByNormalPagingAndFits PASSED
+
+com.tavernrush.game.Boss12VisualTest > textHonoursHardNewlinesAndBlankLines PASSED
+
+com.tavernrush.game.Boss12VisualTest > longParagraphStillWrapsAndCaches PASSED
+
+com.tavernrush.game.ControlsTest > settingsCycleApplyAndPersist PASSED
+
+com.tavernrush.game.ControlsTest > dashButtonSpendsAChargeAndMovesTheHero PASSED
+
+com.tavernrush.game.ControlsTest > dashFollowsTheStickDirection PASSED
+
+com.tavernrush.game.ControlsTest > doubleTapDashesButSlowSecondTapAndDisabledSettingDoNot PASSED
+
+com.tavernrush.game.ControlsTest > fixedStickStaysHomeAndIgnoresFarTouches PASSED
+
+com.tavernrush.game.ControlsTest > cameraLooksAheadAndHeroAcceleratesSmoothly PASSED
+
+com.tavernrush.game.ControlsTest > dashSideFollowsTheSetting PASSED
+
+com.tavernrush.game.ControlsTest > stickHasADeadZoneAndAGentleCurve PASSED
+
+com.tavernrush.game.Dungeon18SoakTest > continuousRouteAndEncounterMatrix PASSED
+
+com.tavernrush.game.Dungeon18Test > aliveNearbyGuardPreventsClaim PASSED
+
+com.tavernrush.game.Dungeon18Test > pinnedWheelDoesNotAllowThroughWall PASSED
+
+com.tavernrush.game.Dungeon18Test > navigatorHandlesMoreThanThreeWallsAndFindsEntrance PASSED
+
+com.tavernrush.game.Dungeon18Test > savedChestDoesNotRespawnRewardGuards PASSED
+
+com.tavernrush.game.Dungeon18Test > mapDoesNotDiscloseUnvisitedChest PASSED
+
+com.tavernrush.game.Dungeon18Test > oldEightBitSaveStillDecodes PASSED
+
+com.tavernrush.game.Dungeon18Test > saveRoundTripPreservesRoomAndReward PASSED
+
+com.tavernrush.game.Dungeon18Test > partitionBlocksBeforeWheel PASSED
+
+com.tavernrush.game.Dungeon18Test > doorwayIsPhysicalNotMenu PASSED
+
+com.tavernrush.game.Dungeon18Test > outsideCannotTurnWheelThroughWall PASSED
+
+com.tavernrush.game.Dungeon18Test > invalidBitsRemainRejectedElsewhere PASSED
+
+com.tavernrush.game.Dungeon18Test > chestCannotBeOpenedThroughPartition PASSED
+
+com.tavernrush.game.Dungeon18Test > clearedChestPaysOnceAcrossReentry PASSED
+
+com.tavernrush.game.Dungeon18Test > restartingKeepsOpeningWithoutHealingTransaction PASSED
+
+com.tavernrush.game.Dungeon18Test > rewardNeedsEncounterNotRemoteTap PASSED
+
+com.tavernrush.game.Dungeon18Test > wheelIsOneTimePersistentOpening PASSED
+
+com.tavernrush.game.Dungeon18Test > individualIdentitySurvivesWalkingIntoRoom PASSED
+
+com.tavernrush.game.Dungeon18Test > outerWallsLeaveLegalSpaceAtWorldBoundary PASSED
+
+com.tavernrush.game.Dungeon18Test > mapOnlyExposesConduitInValley PASSED
+
+com.tavernrush.game.Dungeon18Test > doorFitsHeroAndDoesNotClipWalls PASSED
+
+com.tavernrush.game.Dungeon18Test > interiorObjectiveGuidesWheelThenChestThenExit PASSED
+
+com.tavernrush.game.Dungeon18Test > walkingInsideDoesNotResetHpWeaponsOrCooldown PASSED
+
+com.tavernrush.game.Dungeon18Test > rewardWithoutOpenedGateIsRejected PASSED
+
+com.tavernrush.game.Dungeon18Test > completeRouteCanBeWalkedWithContinuousCollision PASSED
+
+com.tavernrush.game.Dungeon18Test > oldFlagsAreNotOverwritten PASSED
+
+com.tavernrush.game.Dungeon18Test > interiorDoesNotOfferInstantCampTeleport PASSED
+
+com.tavernrush.game.Dungeon18Test > fileStoreKeepsGateAcrossReload PASSED
+
+com.tavernrush.game.Dungeon18Test > upperRoomSpawnsTwoGuardiansOnlyOnce PASSED
+
+com.tavernrush.game.Dungeon18Test > pauseFreezesEncounterAndCooldown PASSED
+
+com.tavernrush.game.Dungeon18Test > navigatorCanReuseBuffersAcrossDifferentMaps PASSED
+
+com.tavernrush.game.Dungeon18VisualTest > lowPresetStillShowsDoorAndPassage PASSED
+
+com.tavernrush.game.Dungeon18VisualTest > entranceRoomsWheelChestAndMapOnThreeSizes PASSED
+
+com.tavernrush.game.FoundationTest > tamperedGoldIsRejected PASSED
+
+com.tavernrush.game.FoundationTest > duplicateSignedKeysAreRejected PASSED
+
+com.tavernrush.game.FoundationTest > interruptedWriteRecoversNewestSignedTemporaryFile PASSED
+
+com.tavernrush.game.FoundationTest > signedButInvalidValuesAreRejected PASSED
+
+com.tavernrush.game.FoundationTest > failedSaveDoesNotAdvanceSequence PASSED
+
+com.tavernrush.game.FoundationTest > invalidContentIndexesAreRejected PASSED
+
+com.tavernrush.game.FoundationTest > contentHasNineDistinctAttackKinds PASSED
+
+com.tavernrush.game.FoundationTest > codecRoundTripPreservesProgressAndUnknownFields PASSED
+
+com.tavernrush.game.FoundationTest > invalidTimeIsIgnored PASSED
+
+com.tavernrush.game.FoundationTest > invalidMovementCannotPoisonTheWorld PASSED
+
+com.tavernrush.game.FoundationTest > rngStreamsAreDistinct PASSED
+
+com.tavernrush.game.FoundationTest > currencyLimitNeverMakesProgressUnreadable PASSED
+
+com.tavernrush.game.FoundationTest > backupRestoresAfterCorruption PASSED
+
+com.tavernrush.game.FoundationTest > pendingProgressIsBankedOnlyOnceAfterRestart PASSED
+
+com.tavernrush.game.FoundationTest > extraFieldsCannotOverrideCurrency PASSED
+
+com.tavernrush.game.FoundationTest > pauseFreezesTheRunAndResumesIt PASSED
+
+com.tavernrush.game.FoundationTest > cardsAreDistinctAndCannotBeAppliedTwice PASSED
+
+com.tavernrush.game.FoundationTest > rngIsReproducible PASSED
+
+com.tavernrush.game.FoundationTest > invalidXpCannotCreateInfiniteLevels PASSED
+
+com.tavernrush.game.FoundationTest > failedRecoveryKeepsNewestValidTemporarySave PASSED
+
+com.tavernrush.game.FoundationTest > lowHealthCannotContinuouslyFarmNearMissGold PASSED
+
+com.tavernrush.game.FoundationTest > damageRespectsInvulnerabilityWindow PASSED
+
+com.tavernrush.game.FoundationTest > rewardCanOnlyBeCreditedOnce PASSED
+
+com.tavernrush.game.FoundationTest > stationaryEnemyActuallyDamagesPlayer PASSED
+
+com.tavernrush.game.FrameClockTest > retiredThreadTokenNeverBecomesCurrentAfterRestart PASSED
+
+com.tavernrush.game.FrameClockTest > supportedRefreshRatesPreserveElapsedTime PASSED
+
+com.tavernrush.game.FrameClockTest > aLongDriverStallDoesNotCreateCatchupDebt PASSED
+
+com.tavernrush.game.FrameClockTest > resetDropsOnlyUnconsumedTime PASSED
+
+com.tavernrush.game.FrameClockTest > invalidRefreshRateUsesSafeSixtyHz PASSED
+
+com.tavernrush.game.FrameClockTest > fastSoftwareFramesNeverAccelerateGameTime PASSED
+
+com.tavernrush.game.FrameClockTest > invalidClockInputCannotPoisonAccumulator PASSED
+
+com.tavernrush.game.GameplayTest > everyWeaponCanReachItsMaximumWithoutInvalidStats PASSED
+
+com.tavernrush.game.GameplayTest > entityPoolsRejectOverflow PASSED
+
+com.tavernrush.game.GameplayTest > panDealsDamage PASSED
+
+com.tavernrush.game.GameplayTest > mugsDealDamage PASSED
+
+com.tavernrush.game.GameplayTest > hearthDealsDamage PASSED
+
+com.tavernrush.game.GameplayTest > tenWavesReachVictoryAndPersistRewardExactlyOnce PASSED
+
+com.tavernrush.game.GameplayTest > knivesDealDamage PASSED
+
+com.tavernrush.game.GameplayTest > lightningDealsDamage PASSED
+
+com.tavernrush.game.GameplayTest > barrelDealsDamage PASSED
+
+com.tavernrush.game.Hook13SoakTest > rangerActiveCounterIsComparedRatherThanAssumed PASSED
+
+com.tavernrush.game.Hook13Test > openingWallAllowsAnchorPath PASSED
+
+com.tavernrush.game.Hook13Test > noDamageUntilArrival PASSED
+
+com.tavernrush.game.Hook13Test > resetRemovesPendingCounter PASSED
+
+com.tavernrush.game.Hook13Test > phaseChangeBeforeArrivalPreventsStrike PASSED
+
+com.tavernrush.game.Hook13Test > activeTelegraphIsNotCounterWindow PASSED
+
+com.tavernrush.game.Hook13Test > anchorBehindWallIsRejectedEvenWhenLandingPointIsClear PASSED
+
+com.tavernrush.game.Hook13Test > readinessUsesSameWindowAndConsumesNothing PASSED
+
+com.tavernrush.game.Hook13Test > movingAnchorCanMakeCommittedStrikeMiss PASSED
+
+com.tavernrush.game.Hook13Test > arrivalStrikesAtMostOnce PASSED
+
+com.tavernrush.game.Hook13Test > cooldownCannotBeCanceledByStyle PASSED
+
+com.tavernrush.game.Hook13Test > targetBehindDirectionCannotBeHooked PASSED
+
+com.tavernrush.game.Hook13Test > phaseInvulnerabilityIsNotCounterWindow PASSED
+
+com.tavernrush.game.Hook13Test > closeBossIsNotDisplaced PASSED
+
+com.tavernrush.game.Hook13Test > fullPauseStopsHookInFlight PASSED
+
+com.tavernrush.game.Hook13Test > largeTargetOutsideRangeCannotBeHooked PASSED
+
+com.tavernrush.game.Hook13Test > closingPathMidHookStopsBeforeWall PASSED
+
+com.tavernrush.game.Hook13Test > tooShortRecoveryCannotPromiseCounter PASSED
+
+com.tavernrush.game.Hook13Test > oldOrdinaryEnemyPullStillWorks PASSED
+
+com.tavernrush.game.Hook13Test > arrivalCannotBypassNewInvulnerability PASSED
+
+com.tavernrush.game.Hook13Test > recoveryAnchorMovesHeroNotBoss PASSED
+
+com.tavernrush.game.Hook13Test > deadAnchorCannotTransferToAnotherEnemy PASSED
+
+com.tavernrush.game.Hook13Test > readinessQueryDoesNotOverwritePreviousAim PASSED
+
+com.tavernrush.game.Hook13Test > activePathDoesNotCrossClosedWall PASSED
+
+com.tavernrush.game.Hook13VisualTest > actualBattleGuideStillFits PASSED
+
+com.tavernrush.game.Hook13VisualTest > leftThumbAndExistingActionProduceVisibleCounter PASSED
+
+com.tavernrush.game.Hook14Test > closedGateRejectsRopeEvenIfFinalEnemyPointIsClear PASSED
+
+com.tavernrush.game.Hook14Test > intentPullsForwardRatherThanNearestBehind PASSED
+
+com.tavernrush.game.Hook14Test > pullClearsMomentumWithoutShorteningStun PASSED
+
+com.tavernrush.game.Hook14Test > noContactTeleport PASSED
+
+com.tavernrush.game.Hook14Test > facingUsedWhenThumbReleased PASSED
+
+com.tavernrush.game.Hook14Test > offAxisLandmarkDoesNotStealForwardEnemy PASSED
+
+com.tavernrush.game.Hook14Test > blockedNearTargetDoesNotHideExposedForwardTarget PASSED
+
+com.tavernrush.game.Hook14Test > finitePositionsOnly PASSED
+
+com.tavernrush.game.Hook14Test > deadAndOutOfRangeTargetsIgnored PASSED
+
+com.tavernrush.game.Hook14Test > manifestationCannotBePulled PASSED
+
+com.tavernrush.game.Hook14Test > invulnerableTargetCannotBePulled PASSED
+
+com.tavernrush.game.Hook14Test > ropeAndArrivalAreVisibleWithoutDamage PASSED
+
+com.tavernrush.game.Hook14Test > perpendicularTargetDoesNotConsumeAction PASSED
+
+com.tavernrush.game.Hook14Test > noRepeatedPullDuringCooldown PASSED
+
+com.tavernrush.game.Hook14Test > thinClearRopeCannotDragThickBodyThroughCorner PASSED
+
+com.tavernrush.game.Hook14Test > openedGateAllowsSameOrdinaryPull PASSED
+
+com.tavernrush.game.Hook14Test > overlappingTargetIsNotMovedOrCharged PASSED
+
+com.tavernrush.game.Hook14VisualTest > localLeftIntentAndRightActionKeepIndependentPointers PASSED
+
+com.tavernrush.game.Hybrid10SoakTest > earnedDiscoveryToHybridToAdultFormIsReachable PASSED
+
+com.tavernrush.game.Hybrid10SoakTest > hybridAllModesFormsAndSixRegionsKeepTraceReachable PASSED
+
+com.tavernrush.game.Hybrid10SoakTest > arenaCombatKeepsHybridFormsAndAllModesFinite PASSED
+
+com.tavernrush.game.Hybrid10Test > hybridCannotBeWildlyAdopted PASSED
+
+com.tavernrush.game.Hybrid10Test > ancestryRoundTripsNewLine PASSED
+
+com.tavernrush.game.Hybrid10Test > creationBlockedInsideRun PASSED
+
+com.tavernrush.game.Hybrid10Test > missingMaterialsDoNotConsumeAnything PASSED
+
+com.tavernrush.game.Hybrid10Test > lockedPairCannotCreate PASSED
+
+com.tavernrush.game.Hybrid10Test > pressureWaveWetsAndMovesInsteadOfLargeDamage PASSED
+
+com.tavernrush.game.Hybrid10Test > invalidChoiceRejected PASSED
+
+com.tavernrush.game.Hybrid10Test > strongerMossWardDoesNotWasteHybridGuard PASSED
+
+com.tavernrush.game.Hybrid10Test > costAndNonceAreAtomic PASSED
+
+com.tavernrush.game.Hybrid10Test > youngParentCannotCreate PASSED
+
+com.tavernrush.game.Hybrid10Test > signedSavePreservesMorphAndHybrid PASSED
+
+com.tavernrush.game.Hybrid10Test > wrongPairCannotCreate PASSED
+
+com.tavernrush.game.Hybrid10Test > wildEncounterNeverChoosesHybrid PASSED
+
+com.tavernrush.game.Hybrid10Test > oldProfileWithoutMorphLoadsNatural PASSED
+
+com.tavernrush.game.Hybrid10Test > chargedOrderCreatesOneLocalProtection PASSED
+
+com.tavernrush.game.Hybrid10Test > explicitLineCreatesFifthOriginalSpecies PASSED
+
+com.tavernrush.game.Hybrid10Test > growingHybridIsUsableImmediately PASSED
+
+com.tavernrush.game.Hybrid10Test > naturalCrossBreedRemainsForbidden PASSED
+
+com.tavernrush.game.Hybrid10Test > generationLimitBlocksBeforeCharging PASSED
+
+com.tavernrush.game.Hybrid10Test > pressureProtectionDoesNotReachAcrossMap PASSED
+
+com.tavernrush.game.Hybrid10Test > pressureProtectionExpiresInsteadOfBeingPermanent PASSED
+
+com.tavernrush.game.Hybrid10Test > parentsRemainByteForByte PASSED
+
+com.tavernrush.game.Hybrid10Test > invalidRequestDoesNotAllocateId PASSED
+
+com.tavernrush.game.Hybrid10Test > fullCollectionBlocksBeforeCharging PASSED
+
+com.tavernrush.game.Hybrid10Test > hybridCanTeachCompatibleFiniteEcho PASSED
+
+com.tavernrush.game.Hybrid10Test > pressureCannotBePressedWithoutCharge PASSED
+
+com.tavernrush.game.Hybrid10Test > fakeUnparentedHybridSaveRejected PASSED
+
+com.tavernrush.game.Hybrid10Test > reversedParentsStillUseChosenIdentity PASSED
+
+com.tavernrush.game.LeftControlsTest > dashSideNeverMovesMovementToRight PASSED
+
+com.tavernrush.game.LeftControlsTest > optionalDoubleTapWorksOnlyOnStick PASSED
+
+com.tavernrush.game.LeftControlsTest > responseAndHeightAreActuallyApplied PASSED
+
+com.tavernrush.game.LeftControlsTest > largeStickAdaptsToAsymmetricCutoutWithoutCrashing PASSED
+
+com.tavernrush.game.LeftControlsTest > layoutAndNewScreensProduceReviewableFrames PASSED
+
+com.tavernrush.game.LeftControlsTest > resizeCancelsQueuedAndActiveInput PASSED
+
+com.tavernrush.game.LeftControlsTest > controlsPageIsReachableAndResetHasSafeDefaults PASSED
+
+com.tavernrush.game.LeftControlsTest > overflowingGameQueueReleasesHeldStick PASSED
+
+com.tavernrush.game.LeftControlsTest > practiceCannotChangeProgressOrAdvanceCombatWorld PASSED
+
+com.tavernrush.game.LeftControlsTest > allSizesAndHeightsFitPhonesTabletsAndInsets PASSED
+
+com.tavernrush.game.LeftControlsTest > oldProfileMigratesOnlyControlsAndKeepsProgress PASSED
+
+com.tavernrush.game.LeftControlsTest > practiceMovementAndDashAreInteractive PASSED
+
+com.tavernrush.game.LeftControlsTest > cancelStopsMovementImmediately PASSED
+
+com.tavernrush.game.LeftControlsTest > freshProfileUsesFixedLeftAndNoTapDash PASSED
+
+com.tavernrush.game.LeftControlsTest > fixedStickCannotBeStartedByWorldOrRightTouches PASSED
+
+com.tavernrush.game.LeftControlsTest > thumbBaseAndKnobRemainLocalAtFullDiagonal PASSED
+
+com.tavernrush.game.LeftControlsTest > defaultDoubleTapsDoNotDashAnywhere PASSED
+
+com.tavernrush.game.LeftControlsTest > invalidCoordinatesCannotPoisonMovement PASSED
+
+com.tavernrush.game.LeftControlsTest > queueOverflowReturnsCancelInsteadOfLosingFingerRelease PASSED
+
+com.tavernrush.game.LeftControlsTest > floatingAlternativeAlsoRejectsWholeScreenAndKeepsBaseLocal PASSED
+
+com.tavernrush.game.LeftControlsTest > secondPointerCannotStealStickOrItsTapHistory PASSED
+
+com.tavernrush.game.LeftControlsTest > unrelatedTapBreaksTheOptionalDashSequence PASSED
+
+com.tavernrush.game.LeftControlsTest > dashWhileHoldingStickPreservesMovementOwner PASSED
+
+com.tavernrush.game.LeftControlsTest > pauseClearsOptionalTapAndHeldFinger PASSED
+
+com.tavernrush.game.LeftControlsTest > explicitR05PreferencesSurviveRoundTrip PASSED
+
+com.tavernrush.game.LeftControlsTest > actionTabsHaveVisibleSelectedStateAndPersistChanges PASSED
+
+com.tavernrush.game.LeftControlsTest > wrongControlRangesAreRejected PASSED
+
+com.tavernrush.game.LifecycleTest > hostPauseFreezesRunUntilExplicitResume PASSED
+
+com.tavernrush.game.LifecycleTest > invalidFrameAndStepCannotCorruptUiTime PASSED
+
+com.tavernrush.game.LifecycleTest > blockedCanvasCannotStartASecondWriterOrReviveOldGeneration PASSED
+
+com.tavernrush.game.QuickSimTest > quick STANDARD_OUT
+    SIM KITE seed=1 time=87 win=false wave=2 lvl=8 kills=216 elites=0 gold=8 near=0@-1 minHp=0.00 maxAlive=53 chests=0 tav=0 finite=true ms=30
+        W: knives 2, trap 1, hearth 1, mugs 1, cauldron 1, sunbeam 1 | P: crit 1 | picks=7
+        dpm: 1552 1807 0 0 0 0 0 0 0 0 0
+    SIM KITE seed=2 time=72 win=false wave=2 lvl=6 kills=155 elites=0 gold=9 near=1@27 minHp=0.00 maxAlive=31 chests=0 tav=0 finite=true ms=52
+        W: knives 1, raven 1, pan 1, bell 2, cauldron 1 | P:  | picks=5
+        dpm: 1670 603 0 0 0 0 0 0 0 0 0
+    SIM CASUAL seed=1 time=120 win=false wave=3 lvl=9 kills=328 elites=0 gold=17 near=1@108 minHp=0.00 maxAlive=85 chests=0 tav=0 finite=true ms=63
+        W: knives 1, trap 2, hearth 1, mugs 1, cauldron 1, sunbeam 1 | P: crit 1, stew 1 | picks=8
+        dpm: 1576 4172 69 0 0 0 0 0 0 0 0
+    SIM CASUAL seed=2 time=79 win=false wave=2 lvl=7 kills=173 elites=0 gold=16 near=2@37 minHp=0.00 maxAlive=40 chests=0 tav=0 finite=true ms=35
+        W: knives 1, raven 1, pan 1, bell 2, cauldron 1, hearth 1 | P:  | picks=6
+        dpm: 1694 1075 0 0 0 0 0 0 0 0 0
+    SIM PASSIVE seed=1 time=22 win=false wave=1 lvl=2 kills=27 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=17 chests=0 tav=0 finite=true ms=4
+        W: knives 1, sunbeam 1 | P:  | picks=1
+        dpm: 340 0 0 0 0 0 0 0 0 0 0
+    SIM PASSIVE seed=2 time=16 win=false wave=1 lvl=2 kills=13 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=18 chests=0 tav=0 finite=true ms=4
+        W: knives 1, raven 1 | P:  | picks=1
+        dpm: 171 0 0 0 0 0 0 0 0 0 0
+    SIM WANDER seed=1 time=35 win=false wave=1 lvl=2 kills=36 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=38 chests=0 tav=0 finite=true ms=8
+        W: knives 1, trap 1 | P:  | picks=1
+        dpm: 484 0 0 0 0 0 0 0 0 0 0
+    SIM WANDER seed=2 time=22 win=false wave=1 lvl=2 kills=22 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=22 chests=0 tav=0 finite=true ms=4
+        W: knives 1, raven 1 | P:  | picks=1
+        dpm: 285 0 0 0 0 0 0 0 0 0 0
+
+com.tavernrush.game.QuickSimTest > quick PASSED
+
+com.tavernrush.game.R03VisualTest > bossFights PASSED
+
+com.tavernrush.game.R03VisualTest > hudWithFixedStickLeftDashAndSettingsScreen PASSED
+
+com.tavernrush.game.R03VisualTest > r03OnTabletAndSmallScreen PASSED
+
+com.tavernrush.game.R03VisualTest > rolesAndAffixes PASSED
+
+com.tavernrush.game.R03VisualTest > ogreOnSmallScreen PASSED
+
+com.tavernrush.game.R03VisualTest > nemesisReturnsAndIsRememberedAfterDeath PASSED
+
+com.tavernrush.game.R03VisualTest > dashHudAndTrail PASSED
+
+com.tavernrush.game.R03VisualTest > graphicsPresetsSideBySide PASSED
+
+com.tavernrush.game.R04VisualTest > encounterOnSmallScreenAndTablet PASSED
+
+com.tavernrush.game.R04VisualTest > mateFrames PASSED
+
+com.tavernrush.game.R04VisualTest > cardsShowElementsAndReactions PASSED
+
+com.tavernrush.game.R04VisualTest > teamAndMenuScreens PASSED
+
+com.tavernrush.game.R04VisualTest > reactionFrames PASSED
+
+com.tavernrush.game.R04VisualTest > teamHudModes PASSED
+
+com.tavernrush.game.R04VisualTest > resultsShowTheNewFriendAndReactions PASSED
+
+com.tavernrush.game.R04VisualTest > encounterLeavingSoonWarning PASSED
+
+com.tavernrush.game.R04VisualTest > encounterFrames PASSED
+
+com.tavernrush.game.R07VisualTest > cacheRevealsOnlyWhenAllowed PASSED
+
+com.tavernrush.game.R07VisualTest > suppliesAreSelectedWithoutImmediateSpending PASSED
+
+com.tavernrush.game.R07VisualTest > intentButtonChangesWorldGoal PASSED
+
+com.tavernrush.game.R07VisualTest > gardenDoesNotGrowFromLookingAtHome PASSED
+
+com.tavernrush.game.R07VisualTest > sanctuaryWorksByActualTouch PASSED
+
+com.tavernrush.game.R07VisualTest > nurseryAndFieldFrames PASSED
+
+com.tavernrush.game.R07VisualTest > mossHasDistinctOriginalPixelModelAndAnimation PASSED
+
+com.tavernrush.game.R07VisualTest > fourthSpeciesCatalogHasOwnPage PASSED
+
+com.tavernrush.game.R07VisualTest > sanctuaryButtonsFitAndNeverOverlap PASSED
+
+com.tavernrush.game.R07VisualTest > masterIsAbsentBeforeRescueAndFramesFitInsets PASSED
+
+com.tavernrush.game.R08SoakTest > expeditionMatrix STANDARD_OUT
+    R08-SIM region,intent,seed,invulnerable,seconds,flags,exit,dead,goal,maxStall,finite,bossHp,damage,px,py
+    R08-SIM 0,0,101,false,45,15,true,false,5,37,true,0,1120,-29,-275
+    R08-SIM 0,0,101,true,45,15,true,false,5,37,true,0,1080,280,-146
+    R08-SIM 0,1,102,false,12,67,true,false,5,7,true,0,87,343,-155
+    R08-SIM 0,1,102,true,12,67,true,false,5,7,true,0,87,343,-155
+    R08-SIM 0,2,103,false,9,146,true,false,5,6,true,0,87,-430,-676
+    R08-SIM 0,2,103,true,9,146,true,false,5,6,true,0,87,-430,-676
+    R08-SIM 1,0,118,false,70,7,false,true,3,60,true,1058,1002,-650,-950
+    R08-SIM 1,0,118,true,110,15,true,false,5,98,true,0,2411,-380,-484
+    R08-SIM 1,1,119,false,106,15,true,false,5,95,true,0,2439,-198,454
+    R08-SIM 1,1,119,true,94,15,true,false,5,83,true,0,2442,-144,-694
+    R08-SIM 1,2,120,false,10,146,true,false,5,5,true,0,10,-482,-755
+    R08-SIM 1,2,120,true,10,146,true,false,5,5,true,0,10,-482,-755
+    R08-SIM 2,0,135,false,120,15,true,false,5,108,true,0,2272,563,-3
+    R08-SIM 2,0,135,true,120,15,true,false,5,108,true,0,2272,563,-3
+    R08-SIM 2,1,136,false,125,15,true,false,5,112,true,0,2241,123,140
+    R08-SIM 2,1,136,true,129,15,true,false,5,116,true,0,2441,-127,-365
+    R08-SIM 2,2,137,false,13,146,true,false,5,6,true,0,24,-339,-788
+    R08-SIM 2,2,137,true,13,146,true,false,5,6,true,0,24,-339,-788
+    R08-SIM 3,0,152,false,86,15,true,false,5,77,true,0,1224,365,-259
+    R08-SIM 3,0,152,true,86,15,true,false,5,77,true,0,1224,365,-259
+    R08-SIM 3,1,153,false,92,15,true,false,5,83,true,0,1151,649,-404
+    R08-SIM 3,1,153,true,92,15,true,false,5,83,true,0,1151,649,-404
+    R08-SIM 3,2,154,false,9,146,true,false,5,4,true,0,87,-491,-737
+    R08-SIM 3,2,154,true,9,146,true,false,5,4,true,0,87,-491,-737
+    R08-SIM 4,0,169,false,94,15,true,false,5,83,true,0,1335,293,-252
+    R08-SIM 4,0,169,true,94,15,true,false,5,83,true,0,1335,293,-252
+    R08-SIM 4,1,170,false,15,67,true,false,5,8,true,0,97,322,-351
+    R08-SIM 4,1,170,true,15,67,true,false,5,8,true,0,97,322,-351
+    R08-SIM 4,2,171,false,12,146,true,false,5,7,true,0,74,-409,-618
+    R08-SIM 4,2,171,true,12,146,true,false,5,7,true,0,74,-409,-618
+    R08-SIM 5,0,186,false,98,15,true,false,5,86,true,0,1273,207,-249
+    R08-SIM 5,0,186,true,98,15,true,false,5,86,true,0,1273,207,-249
+    R08-SIM 5,1,187,false,107,15,true,false,5,95,true,0,1287,334,-210
+    R08-SIM 5,1,187,true,107,15,true,false,5,95,true,0,1287,334,-210
+    R08-SIM 5,2,188,false,10,146,true,false,5,4,true,0,24,-455,-740
+    R08-SIM 5,2,188,true,10,146,true,false,5,4,true,0,24,-455,-740
+
+com.tavernrush.game.R08SoakTest > expeditionMatrix PASSED
+
+com.tavernrush.game.R08VisualTest > rightActionDoesNotStealLeftMovement PASSED
+
+com.tavernrush.game.R08VisualTest > journalStartsWithLatestMemory PASSED
+
+com.tavernrush.game.R08VisualTest > clueAndSafeReturnUseActualButtonAtThreeSizes PASSED
+
+com.tavernrush.game.R09SoakTest > allDirectedEchoesFinishTraceWithoutNonfiniteState STANDARD_OUT
+    R09 36 directed-pair/mode routes finished; diagnostic godMode=true, taught pairs are fixtures, no human playtest
+
+com.tavernrush.game.R09SoakTest > allDirectedEchoesFinishTraceWithoutNonfiniteState PASSED
+
+com.tavernrush.game.R09SoakTest > jointLearningIsReachableWithoutTeleporting PASSED
+
+com.tavernrush.game.R09VisualTest > emptyCompositionsAndBackFitSafeInsets PASSED
+
+com.tavernrush.game.R09VisualTest > compositionsAccessibleByNormalMenusAndFitThreeSizes PASSED
+
+com.tavernrush.game.R09VisualTest > teachingAndPresetRestoreWorkByActualTouch PASSED
+
+com.tavernrush.game.R09VisualTest > individualDuoAndEchoAreRendered PASSED
+
+com.tavernrush.game.R10SoakTest > formsModesAndSpeciesKeepTraceCompletable PASSED
+
+com.tavernrush.game.R10VisualTest > formAndHybridLayoutUpdatesAfterResize PASSED
+
+com.tavernrush.game.R10VisualTest > everySpeciesHasVisibleForms PASSED
+
+com.tavernrush.game.R10VisualTest > formsScreenReachableAndNonOverlapping PASSED
+
+com.tavernrush.game.R10VisualTest > hybridMenusAndConfirmationFitThreeSizes PASSED
+
+com.tavernrush.game.R10VisualTest > actualTouchesPreviewThenChooseWithoutMutatingGenetics PASSED
+
+com.tavernrush.game.R10VisualTest > ageFormSpritesDifferAndAreCached PASSED
+
+com.tavernrush.game.R10VisualTest > hybridBattleUsesDistinctOriginalModel PASSED
+
+com.tavernrush.game.R10VisualTest > emptyAndYoungStatesFitInsets PASSED
+
+com.tavernrush.game.R10VisualTest > cancelNeverCreatesOrChargesHybrid PASSED
+
+com.tavernrush.game.R10VisualTest > lineageOperationsAreSeparatedWithThumbSizedTargets PASSED
+
+com.tavernrush.game.Region11SoakTest > authoredRoutesBothDirectionsAndThreeTeamModes PASSED
+
+com.tavernrush.game.Region11Test > navigationFindsFinitePathToEveryLandmark PASSED
+
+com.tavernrush.game.Region11Test > longDashCanPassOpenedGate PASSED
+
+com.tavernrush.game.Region11Test > eachRegionStartsAtItsOwnCamp PASSED
+
+com.tavernrush.game.Region11Test > invalidRayIsRejected PASSED
+
+com.tavernrush.game.Region11Test > longDashCannotTunnelThroughGate PASSED
+
+com.tavernrush.game.Region11Test > waterAndElementsUseCurrentRegionNodes PASSED
+
+com.tavernrush.game.Region11Test > originalLandmarkIdsAndCoordinatesRemain PASSED
+
+com.tavernrush.game.Region11Test > newExpeditionClearsOldPin PASSED
+
+com.tavernrush.game.Region11Test > mapCannotOpenFromArena PASSED
+
+com.tavernrush.game.Region11Test > completedPinYieldsToStory PASSED
+
+com.tavernrush.game.Region11Test > gateOpensButPermanentGeometryRemains PASSED
+
+com.tavernrush.game.Region11Test > verticalWallAlsoBlocksLongSweep PASSED
+
+com.tavernrush.game.Region11Test > hiddenCacheCannotBePinned PASSED
+
+com.tavernrush.game.Region11Test > everyNewLayoutHasTwoPermanentWalls PASSED
+
+com.tavernrush.game.Region11Test > mapIsInsideRunAndCannotEditCollection PASSED
+
+com.tavernrush.game.Region11Test > everyLandmarkExceptGateIsOutsideWalls PASSED
+
+com.tavernrush.game.Region11Test > autoAimPrefersExposedTargetRatherThanWastingShots PASSED
+
+com.tavernrush.game.Region11Test > enemyArrowStopsAtBarrier PASSED
+
+com.tavernrush.game.Region11Test > diagonalAndParallelLinesRespectWall PASSED
+
+com.tavernrush.game.Region11Test > linesCrossWallsInBothDirections PASSED
+
+com.tavernrush.game.Region11Test > heavyActionMatchesVerticalAndHorizontalGate PASSED
+
+com.tavernrush.game.Region11Test > sixDistinctLayouts PASSED
+
+com.tavernrush.game.Region11Test > openedGateAllowsSameLine PASSED
+
+com.tavernrush.game.Region11Test > lineOutsideBarrierIsClear PASSED
+
+com.tavernrush.game.Region11Test > mapDoesNotBypassPendingCard PASSED
+
+com.tavernrush.game.Region11Test > visiblePinChangesDirectionWithoutMovingPlayer PASSED
+
+com.tavernrush.game.Region11Test > backFromMapRestoresPauseThenRun PASSED
+
+com.tavernrush.game.Region11Test > navigatorCanRecoverFromMarginContact PASSED
+
+com.tavernrush.game.Region11Test > knifeStopsAtBarrierBeforeHittingBeyondIt PASSED
+
+com.tavernrush.game.Region11Test > stationaryPointInsideWallIsNotClear PASSED
+
+com.tavernrush.game.Region11Test > teamStartsNearHeroNotOldOrigin PASSED
+
+com.tavernrush.game.Region11Test > mapFreezesWorldAndCooldowns PASSED
+
+com.tavernrush.game.Region11Test > guardianStartsAtCurrentSource PASSED
+
+com.tavernrush.game.Region11Test > resolveKeepsActorOutside PASSED
+
+com.tavernrush.game.Region11Test > mapRequiresPause PASSED
+
+com.tavernrush.game.Region11VisualTest > allSixMapsRenderAndFitThreeSizes PASSED
+
+com.tavernrush.game.Region11VisualTest > localLeftMovementUnaffectedByWorldMap PASSED
+
+com.tavernrush.game.Region11VisualTest > authoredWorldGeometryRenders PASSED
+
+com.tavernrush.game.Region11VisualTest > touchPinsVisibleLandmarkWithoutReleasingPause PASSED
+
+com.tavernrush.game.Region11VisualTest > arenaKeepsOriginalPauseWithoutMap PASSED
+
+com.tavernrush.game.Region11VisualTest > mapResizeKeepsSelectionAndTouches PASSED
+
+com.tavernrush.game.Region11VisualTest > pauseButtonsFitSmallScreen PASSED
+
+com.tavernrush.game.Round10Test > naturalFormRestoresInheritedAbility PASSED
+
+com.tavernrush.game.Round10Test > invalidBranchRejected PASSED
+
+com.tavernrush.game.Round10Test > oldMissingStateIsNatural PASSED
+
+com.tavernrush.game.Round10Test > adultCanChooseEitherSideBranch PASSED
+
+com.tavernrush.game.Round10Test > profileCopyIsDeep PASSED
+
+com.tavernrush.game.Round10Test > formCodecRoundTrips PASSED
+
+com.tavernrush.game.Round10Test > reserveAlsoUsesOwnForm PASSED
+
+com.tavernrush.game.Round10Test > invalidBranchCannotEvolve PASSED
+
+com.tavernrush.game.Round10Test > malformedStateRejected PASSED
+
+com.tavernrush.game.Round10Test > adultNaturalModelUnchanged PASSED
+
+com.tavernrush.game.Round10Test > everyAgeFormClipHasFinitePositiveGeometry PASSED
+
+com.tavernrush.game.Round10Test > formSelectionBlockedInsideRun PASSED
+
+com.tavernrush.game.Round10Test > sideBranchesHaveDifferentGeometryNotJustTint PASSED
+
+com.tavernrush.game.Round10Test > sameIdPersistsAcrossReversibleChoices PASSED
+
+com.tavernrush.game.Round10Test > unknownReferenceRejected PASSED
+
+com.tavernrush.game.Round10Test > formsAreIndependentByIndividual PASSED
+
+com.tavernrush.game.Round10Test > youngCannotEvolveEvenWithPractice PASSED
+
+com.tavernrush.game.Round10Test > duplicateReferenceRejected PASSED
+
+com.tavernrush.game.Round10Test > selectionDoesNotSpendResources PASSED
+
+com.tavernrush.game.Round10Test > twoDiscoveriesAreNotEnough PASSED
+
+com.tavernrush.game.Round10Test > childhoodIsNotUniformShrink PASSED
+
+com.tavernrush.game.Round10Test > youngSaveCannotClaimEvolution PASSED
+
+com.tavernrush.game.Round10Test > missingIdentityCannotEvolve PASSED
+
+com.tavernrush.game.Round10Test > identityAndParentsStayUnchanged PASSED
+
+com.tavernrush.game.Round10Test > chosenFormReplacesRatherThanStacksRuntimeBranch PASSED
+
+com.tavernrush.game.Round10Test > chosenFormDoesNotAlterInheritedTalent PASSED
+
+com.tavernrush.game.Round3Test > everyBossIsInvulnerableOnEntranceThenChangesPhasesAtItsThresholds PASSED
+
+com.tavernrush.game.Round3Test > archerAimsThenFiresAnArrowThatHurts PASSED
+
+com.tavernrush.game.Round3Test > botSurvivesAnArcherNestByDodgingAndDashing PASSED
+
+com.tavernrush.game.Round3Test > botIsDeterministicWithTheNewSystems PASSED
+
+com.tavernrush.game.Round3Test > dashSpendsAndRestoresChargesAndRejectsBadInput PASSED
+
+com.tavernrush.game.Round3Test > forgedNemesisFieldsAreRejected PASSED
+
+com.tavernrush.game.Round3Test > killerBecomesNemesisAndEscalatesAndRevengeResetsIt PASSED
+
+com.tavernrush.game.Round3Test > contentIsConsistentForTheNewRoster PASSED
+
+com.tavernrush.game.Round3Test > ordinaryContactDuringDashIsNotAPerfectDodge PASSED
+
+com.tavernrush.game.Round3Test > nemesisNamesAreDeterministicAndEscalateWithRank PASSED
+
+com.tavernrush.game.Round3Test > eliteAffixesApply PASSED
+
+com.tavernrush.game.Round3Test > bomberDetonatesAndHurtsAnInactiveHero PASSED
+
+com.tavernrush.game.Round3Test > dashGivesInvulnerabilityWindowAndPerfectDodgeRewardsOnce PASSED
+
+com.tavernrush.game.Round3Test > bossKillerReturnsAsRematchAndIsClearedWhenDefeated PASSED
+
+com.tavernrush.game.Round3Test > ghostVanishesWithAWarningAndReappearsElsewhere PASSED
+
+com.tavernrush.game.Round3Test > bossesUseDifferentAttackKitsAndTheyAllTelegraph PASSED
+
+com.tavernrush.game.Round3Test > hitStopFreezesLogicButNeverForever PASSED
+
+com.tavernrush.game.Round3Test > modelsBakeDeterministicallyWithVolumeOutlineAndShadow PASSED
+
+com.tavernrush.game.Round3Test > everyEnemyLookHasAWalkingModelThatBakes PASSED
+
+com.tavernrush.game.Round3Test > bomberCanBeDefusedBeforeTheBlast PASSED
+
+com.tavernrush.game.Round3Test > spiderWebSlowsTheHero PASSED
+
+com.tavernrush.game.Round3Test > nemesisAndSettingsSurviveSaveAndOldSavesGetDefaults PASSED
+
+com.tavernrush.game.Round3Test > slimeSplitsAndSummonerKeepsAtMostSixRats PASSED
+
+com.tavernrush.game.Round3Test > governorOnlyDowngradesAfterSustainedSlowFrames PASSED
+
+com.tavernrush.game.Round3Test > killingABossPaysOutAndClearsItsAttacks PASSED
+
+com.tavernrush.game.Round3Test > boarTelegraphsChargesAndIsStunnedAndTakesMoreDamage PASSED
+
+com.tavernrush.game.Round4CreaturesTest > aWetBomberCannotLightItsFuseUntilItDries PASSED
+
+com.tavernrush.game.Round4CreaturesTest > forgedFriendAndTeamFieldsAreRejected PASSED
+
+com.tavernrush.game.Round4CreaturesTest > guestJoinsByModeRules PASSED
+
+com.tavernrush.game.Round4CreaturesTest > hornShieldsIgnoreHitsWhenTheMateIsFarAway PASSED
+
+com.tavernrush.game.Round4CreaturesTest > trustGrowsFullSpeedInCalmSlowerWithEnemiesInTheAreaAndSlowestWithOneNextToTheCreature PASSED
+
+com.tavernrush.game.Round4CreaturesTest > gameRecordsAMetFriendRightAwayAndOnlyOnce PASSED
+
+com.tavernrush.game.Round4CreaturesTest > streamSpecializationsChangeTheShot PASSED
+
+com.tavernrush.game.Round4CreaturesTest > huntersLeaveTheCreatureAndChaseTheHeroWhoComes PASSED
+
+com.tavernrush.game.Round4CreaturesTest > creatureContentIsConsistent PASSED
+
+com.tavernrush.game.Round4CreaturesTest > finishingARunBanksBondPracticeAndRevivesIntoTheProfile PASSED
+
+com.tavernrush.game.Round4CreaturesTest > aRevivedMateIsCountedAndAReserveRestsBackToHealth PASSED
+
+com.tavernrush.game.Round4CreaturesTest > friendsAndTeamSurviveASaveRoundTrip PASSED
+
+com.tavernrush.game.Round4CreaturesTest > lynxOrderNeedsSomeCharge PASSED
+
+com.tavernrush.game.Round4CreaturesTest > lynxSpecializationsTradeArcsForDamage PASSED
+
+com.tavernrush.game.Round4CreaturesTest > streamWetsDryEnemiesInALineAndSavesTheShotWhenAllAreWet PASSED
+
+com.tavernrush.game.Round4CreaturesTest > trustMakesTheCreatureApproachInThreeStepsAndThenItJoinsTheTeam PASSED
+
+com.tavernrush.game.Round4CreaturesTest > theBotCallsAnOrderInACrowdAndSwapsOutAFallenLead PASSED
+
+com.tavernrush.game.Round4CreaturesTest > teamEditsArePossibleOnlyOutsideARunAndArePersisted PASSED
+
+com.tavernrush.game.Round4CreaturesTest > duoModeStartsBothMatesInARunAndSwapModeOnlyTheLead PASSED
+
+com.tavernrush.game.Round4CreaturesTest > orderWorksOnlyInSoloAndHasACooldown PASSED
+
+com.tavernrush.game.Round4CreaturesTest > streamPutsOutABombersFuse PASSED
+
+com.tavernrush.game.Round4CreaturesTest > botRunsWithAFullTeamAreDeterministic PASSED
+
+com.tavernrush.game.Round4CreaturesTest > noEncounterWhenEveryoneIsAlreadyAFriend PASSED
+
+com.tavernrush.game.Round4CreaturesTest > hornStompsWhenSurrounded PASSED
+
+com.tavernrush.game.Round4CreaturesTest > teamRunsAreDeterministic PASSED
+
+com.tavernrush.game.Round4CreaturesTest > swapExchangesTheActiveMateWithACooldownAndRefusesADownedReserve PASSED
+
+com.tavernrush.game.Round4CreaturesTest > theEncounterWarnsBeforeLeavingAndABossEndsItAtOnce PASSED
+
+com.tavernrush.game.Round4CreaturesTest > lynxChargesFromTheHeroTravelNotFromStandingStill PASSED
+
+com.tavernrush.game.Round4CreaturesTest > anEncounterPicksOnlyUnmetSpeciesAndIsDeterministicPerSeed PASSED
+
+com.tavernrush.game.Round4CreaturesTest > hornAbsorbsThreeHitsThenTheHeroIsHurt PASSED
+
+com.tavernrush.game.Round4CreaturesTest > theRingIsTiedToTheSiteNotToTheCreatureThatWalksToTheHero PASSED
+
+com.tavernrush.game.Round4CreaturesTest > teamRolesSwapPlacesAndNeverDuplicate PASSED
+
+com.tavernrush.game.Round4CreaturesTest > hornCountersWithAStunningBashAndShieldsComeBackSlowly PASSED
+
+com.tavernrush.game.Round4CreaturesTest > hornSpecializationsChangeShieldsAndBash PASSED
+
+com.tavernrush.game.Round4CreaturesTest > reactionsOnWaterFromTheStreamEarnItPractice PASSED
+
+com.tavernrush.game.Round4CreaturesTest > lynxOnADryTargetRecoversFaster PASSED
+
+com.tavernrush.game.Round4CreaturesTest > firstTwoFriendsFormTheTeamAndEachSpeciesJoinsOnce PASSED
+
+com.tavernrush.game.Round4CreaturesTest > modesBuildDifferentTeams PASSED
+
+com.tavernrush.game.Round4CreaturesTest > savesWithoutFriendsStillLoadWithDefaults PASSED
+
+com.tavernrush.game.Round4CreaturesTest > theSiteHasHuntersThatChaseTheCreatureWhileTheHeroIsFar PASSED
+
+com.tavernrush.game.Round4CreaturesTest > aMateIsKnockedOutNotKilledAndStandsAgainFasterWithTheHeroNear PASSED
+
+com.tavernrush.game.Round4CreaturesTest > anIgnoredEncounterExpiresSoftlyAndFreesTheHunters PASSED
+
+com.tavernrush.game.Round4CreaturesTest > specializationIsChosenOnceAndOnlyAfterPractice PASSED
+
+com.tavernrush.game.Round4CreaturesTest > theBotAnswersTheCallAndMakesAFriendOnItsOwn PASSED
+
+com.tavernrush.game.Round4CreaturesTest > lynxLeapsOnTheWetClusterAndConductionCostsItAWindedPause PASSED
+
+com.tavernrush.game.Round4CreaturesTest > ifTheHeroNeverComesTheCreatureRunsAwayWithoutLosingTheSpeciesForever PASSED
+
+com.tavernrush.game.Round4Test > frostOnWetEnemyFreezesItAndFrozenEnemyStopsAndCannotHurt PASSED
+
+com.tavernrush.game.Round4Test > conductionNeverChainsIntoMoreReactionsAndRespectsTheBudget PASSED
+
+com.tavernrush.game.Round4Test > heavyHitOnUnfrozenEnemyDoesNotShatter PASSED
+
+com.tavernrush.game.Round4Test > shockOnWetEnemyConductsToWetNeighboursOnly PASSED
+
+com.tavernrush.game.Round4Test > waterMakesEnemiesWetForALimitedTime PASSED
+
+com.tavernrush.game.Round4Test > heavyHitShattersFrozenEnemyAndHurtsNeighbours PASSED
+
+com.tavernrush.game.Round4Test > cardsExplainTheReactionANewWeaponWouldMake PASSED
+
+com.tavernrush.game.Round4Test > fireBurnsADryEnemyAndWaterPutsItOut PASSED
+
+com.tavernrush.game.Round4Test > reactionLabelsAreRateLimited PASSED
+
+com.tavernrush.game.Round4Test > weaponsCarryTheirElements PASSED
+
+com.tavernrush.game.Round4Test > shockOnDryEnemyIsJustDamage PASSED
+
+com.tavernrush.game.Round4Test > logicTickCostIsRecordedAndStaysFarBelowABudget PASSED
+
+com.tavernrush.game.Round4Test > sameTargetDoesNotReactTwiceWithinTheCooldown PASSED
+
+com.tavernrush.game.Round4Test > aWeakBurnAfterAStrongOneDoesNotInheritItsPower PASSED
+
+com.tavernrush.game.Round4Test > frozenEnemiesTakeMoreDamage PASSED
+
+com.tavernrush.game.Round4Test > bossesAreNotFrozenButStillTakeTheReactionHit PASSED
+
+com.tavernrush.game.Round4Test > mugsPlusLightningMakeConductionWithoutAnyScriptedHit PASSED
+
+com.tavernrush.game.Round4Test > statusesDoNotLeakThroughPoolReuse PASSED
+
+com.tavernrush.game.Round4Test > burnCanKillAndCreditsTheKill PASSED
+
+com.tavernrush.game.Round4Test > fireOnWetEnemyMakesSteamThatHurtsSlowsAndDriesTheArea PASSED
+
+com.tavernrush.game.Round4Test > reactionsAreDeterministicForTheSameSeed PASSED
+
+com.tavernrush.game.Round4Test > elementPairsAndHintsAreConsistent PASSED
+
+com.tavernrush.game.Round7Test > unavailableSupplyDoesNotBecomeNegative PASSED
+
+com.tavernrush.game.Round7Test > signedHomeAndLineageRoundtrip PASSED
+
+com.tavernrush.game.Round7Test > fourthSpeciesLineageSaves PASSED
+
+com.tavernrush.game.Round7Test > wardExpiresWithoutPermanentShield PASSED
+
+com.tavernrush.game.Round7Test > sameMossCannotBeCollectedRepeatedly PASSED
+
+com.tavernrush.game.Round7Test > wardDoesNotFollowHero PASSED
+
+com.tavernrush.game.Round7Test > choosingIntentChangesRealGoal PASSED
+
+com.tavernrush.game.Round7Test > harvestIsExplicitAndRepeatSafe PASSED
+
+com.tavernrush.game.Round7Test > repeatedWorldActionDoesNotGrowGarden PASSED
+
+com.tavernrush.game.Round7Test > walkingAwayDoesNotCompleteTrust PASSED
+
+com.tavernrush.game.Round7Test > nurseryIsOnlyInLivingRegions PASSED
+
+com.tavernrush.game.Round7Test > automaticSupportNeedsNearbyDanger PASSED
+
+com.tavernrush.game.Round7Test > botInvestigatesTraceWithSupportInsteadOfSpammingOrder PASSED
+
+com.tavernrush.game.Round7Test > newlyAdoptedAnimalDoesNotWitnessEarlierRescue PASSED
+
+com.tavernrush.game.Round7Test > protectionDoesNotFarmIdlePractice PASSED
+
+com.tavernrush.game.Round7Test > scoutContractOverridesPersonalIntent PASSED
+
+com.tavernrush.game.Round7Test > wideWardActuallyChangesGeometry PASSED
+
+com.tavernrush.game.Round7Test > mossDoesNotAddFreeDamageOnOrder PASSED
+
+com.tavernrush.game.Round7Test > revealingFindsButDoesNotLootAutomatically PASSED
+
+com.tavernrush.game.Round7Test > plantingConsumesOnceAndRejectsOverwrite PASSED
+
+com.tavernrush.game.Round7Test > nurseryNeedsSafeObservation PASSED
+
+com.tavernrush.game.Round7Test > memoryCannotReferenceMissingIndividual PASSED
+
+com.tavernrush.game.Round7Test > herbsHaveDifferentUseFromNectar PASSED
+
+com.tavernrush.game.Round7Test > supplySelectionDoesNotConsumeIt PASSED
+
+com.tavernrush.game.Round7Test > plantAndHarvestBlockedDuringAdventure PASSED
+
+com.tavernrush.game.Round7Test > nectarShortensMeetingButIsNotRequired PASSED
+
+com.tavernrush.game.Round7Test > invalidHomeRangesAreRejected PASSED
+
+com.tavernrush.game.Round7Test > memoryListIsBoundedAndOrdered PASSED
+
+com.tavernrush.game.Round7Test > joinedMossImmediatelyActsIfTeamWasEmpty PASSED
+
+com.tavernrush.game.Round7Test > memoryKeepsActualCompanionIdentity PASSED
+
+com.tavernrush.game.Round7Test > secondHabitatGivesCompatibleMossParent PASSED
+
+com.tavernrush.game.Round7Test > oldR06SaveKeepsProgressAndGetsEmptyHome PASSED
+
+com.tavernrush.game.Round7Test > noMasterDialogueBeforeRescue PASSED
+
+com.tavernrush.game.Round7Test > invalidHomeMemoryOrderIsRejected PASSED
+
+com.tavernrush.game.Round7Test > anyoneCanFindCacheByCloseObservation PASSED
+
+com.tavernrush.game.Round7Test > herbsOpenOptionalTrace PASSED
+
+com.tavernrush.game.Round7Test > masterDialogueRemembersChapterWithoutCurrency PASSED
+
+com.tavernrush.game.Round7Test > mossSpecializationHasLongerTraceRange PASSED
+
+com.tavernrush.game.Round7Test > homeCopyIsIndependent PASSED
+
+com.tavernrush.game.Round7Test > wardHasRealCooldown PASSED
+
+com.tavernrush.game.Round7Test > wardDoesNotMakeInvulnerable PASSED
+
+com.tavernrush.game.Round7Test > invalidEmptyPlotGrowthIsRejected PASSED
+
+com.tavernrush.game.Round7Test > gardenRequiresTwoDiscoveriesNotClock PASSED
+
+com.tavernrush.game.Round7Test > wardIsAnExplicitSpatialChoice PASSED
+
+com.tavernrush.game.Round7Test > fourthSpeciesIsSupportNotElementalReskin PASSED
+
+com.tavernrush.game.Round7Test > cacheIsHiddenBeforeInvestigation PASSED
+
+com.tavernrush.game.Round7Test > noNewRandomAttackIsScheduledDuringObservation PASSED
+
+com.tavernrush.game.Round7Test > nurseryNeedsWater PASSED
+
+com.tavernrush.game.Round8Test > sourceWaterAffectsEnemyToo PASSED
+
+com.tavernrush.game.Round8Test > repeatingSameIntentionDoesNotFarmDiscovery PASSED
+
+com.tavernrush.game.Round8Test > sourceSummonsRemainBoundedDuringLongFight PASSED
+
+com.tavernrush.game.Round8Test > nearbyEnemyBlocksQuickReturn PASSED
+
+com.tavernrush.game.Round8Test > returnNeverOverridesUnfinishedNearbyAction PASSED
+
+com.tavernrush.game.Round8Test > contractsStillOverrideCompletedPersonalIntention PASSED
+
+com.tavernrush.game.Round8Test > hostileWarningBlocksReturn PASSED
+
+com.tavernrush.game.Round8Test > pauseCannotBeUsedToTriggerReturn PASSED
+
+com.tavernrush.game.Round8Test > clueRemainsUsableAfterTemporaryGlowExpires PASSED
+
+com.tavernrush.game.Round8Test > mossMeetingCompletesItsOwnIntention PASSED
+
+com.tavernrush.game.Round8Test > safeReturnIsExplicitAndKeepsRewards PASSED
+
+com.tavernrush.game.Round8Test > alreadyKnownCaveIsNotADeadEndOnNextVisit PASSED
+
+com.tavernrush.game.Round8Test > cacheDoesNotDisableWaterAction PASSED
+
+com.tavernrush.game.Round8Test > elementalActionWorksAtSourceNotOnlyFarUpstream PASSED
+
+com.tavernrush.game.Round8Test > completedMainQuestCanReturnButWaterAloneCannot PASSED
+
+com.tavernrush.game.Round8Test > quickReturnRequiresEarnedGoal PASSED
+
+com.tavernrush.game.Round8Test > firstSourceAndVoluntaryTrialHaveDifferentStakes PASSED
+
+com.tavernrush.game.Round8Test > invalidElementCoordinatesRemainRejectedAfterFix PASSED
+
+com.tavernrush.game.Round8Test > chargedSourceHasSameRiskForHero PASSED
+
+com.tavernrush.game.Round8Test > nonLivingRegionStillHasMainQuestNotImpossibleMossGoal PASSED
+
+com.tavernrush.game.Round8Test > unknownTraceStillStartsAtCave PASSED
+
+com.tavernrush.game.Round8Test > clueChangesObjectiveInsteadOfLoopingOnFinishedCave PASSED
+
+com.tavernrush.game.Round8Test > cacheDoesNotDisableFreezeShockOrSteam PASSED
+
+com.tavernrush.game.Round8Test > drySourceDoesNotPretendToConduct PASSED
+
+com.tavernrush.game.Round8Test > cacheCompletesPersonalIntentionWithoutMandatoryBoss PASSED
+
+com.tavernrush.game.Round8Test > livingBossBlocksReturnEvenFarAway PASSED
+
+com.tavernrush.game.Round8Test > cacheDoesNotDisableHeavyAction PASSED
+
+com.tavernrush.game.Round8Test > visualOnlyWarningDoesNotBlockReturn PASSED
+
+com.tavernrush.game.Round8Test > distantOrdinaryEnemyDoesNotDemandEmptyWorld PASSED
+
+com.tavernrush.game.Round8Test > nearbyHiddenCacheCanStillBeFoundWithoutClue PASSED
+
+com.tavernrush.game.Round8Test > overlappingFinishedCaveCannotStealTraceAction PASSED
+
+com.tavernrush.game.Round8Test > arenaBossHealthHasNotBeenNerfed PASSED
+
+com.tavernrush.game.Round8Test > restoredWaterReachesSourceWithoutBuyingWorkshop PASSED
+
+com.tavernrush.game.Round8Test > completedGoalDoesNotAutoEscape PASSED
+
+com.tavernrush.game.Round8Test > nearbyProjectileBlocksReturn PASSED
+
+com.tavernrush.game.Round8Test > clueAndCacheSurviveSignedSaveRoundtrip PASSED
+
+com.tavernrush.game.Round9Test > teachRequiresLearnedPairAndKeepsBothAnimals PASSED
+
+com.tavernrush.game.Round9Test > allThreeCompositionsRestoreIdentitiesAndModes PASSED
+
+com.tavernrush.game.Round9Test > learnedRelationDoesNotChangeBreedingCompatibility PASSED
+
+com.tavernrush.game.Round9Test > selectingReserveAsLeadClearsConflict PASSED
+
+com.tavernrush.game.Round9Test > presetRestoresTaughtChoiceNotCurrentChoice PASSED
+
+com.tavernrush.game.Round9Test > swapNeedsBothToActuallyParticipate PASSED
+
+com.tavernrush.game.Round9Test > duoActsWithBothIdentities PASSED
+
+com.tavernrush.game.Round9Test > duplicateKnownPairIsRejected PASSED
+
+com.tavernrush.game.Round9Test > reserveGainsDiscoveryPracticeWhenParticipating PASSED
+
+com.tavernrush.game.Round9Test > oldR08SaveWithoutNewFieldLoadsEmptyCompanionProgress PASSED
+
+com.tavernrush.game.Round9Test > sameIndividualCannotBeReserve PASSED
+
+com.tavernrush.game.Round9Test > lightningEchoCannotFireAtDryTargetWhenMainDoesNotWet PASSED
+
+com.tavernrush.game.Round9Test > soloDoesNotSpawnHiddenSecondIndividual PASSED
+
+com.tavernrush.game.Round9Test > resonanceDoesNotSurviveWorldResetAsFreeEffect PASSED
+
+com.tavernrush.game.Round9Test > identityLearningIsSymmetricAndDeduplicated PASSED
+
+com.tavernrush.game.Round9Test > missingDonorIsRejected PASSED
+
+com.tavernrush.game.Round9Test > resonanceRuntimeComesFromActualDonorSpecies PASSED
+
+com.tavernrush.game.Round9Test > lessonIsReversibleOutsideFight PASSED
+
+com.tavernrush.game.Round9Test > witnessFollowsActuallyActiveSwappedIndividual PASSED
+
+com.tavernrush.game.Round9Test > noEndlessEchoOnIdlePress PASSED
+
+com.tavernrush.game.Round9Test > teachingAndPresetsBlockedInsideRun PASSED
+
+com.tavernrush.game.Round9Test > cannotLearnFromSelfOrMissingId PASSED
+
+com.tavernrush.game.Round9Test > waterEchoCreatesConditionWithoutExtraDamage PASSED
+
+com.tavernrush.game.Round9Test > emptyReserveCanBeCleared PASSED
+
+com.tavernrush.game.Round9Test > oneReceiverHasOnlyOneDonorLesson PASSED
+
+com.tavernrush.game.Round9Test > lightningEchoOnlyAddsSingleFiniteHit PASSED
+
+com.tavernrush.game.Round9Test > jointActionUnlocksPairNotFreeIdleTime PASSED
+
+com.tavernrush.game.Round9Test > sameSpeciesCannotOccupyBothSlots PASSED
+
+com.tavernrush.game.Round9Test > reserveChangesBlockedDuringRun PASSED
+
+com.tavernrush.game.Round9Test > newPairIsNotUnlockedByInstantClick PASSED
+
+com.tavernrush.game.Round9Test > lessonWithoutJointHistoryIsRejected PASSED
+
+com.tavernrush.game.Round9Test > individualReserveCarriesUidAgeTraitAndTalent PASSED
+
+com.tavernrush.game.Round9Test > signedSavePreservesEveryReference PASSED
+
+com.tavernrush.game.Round9Test > mossEchoIsSmallerAndShorterThanNativeWard PASSED
+
+com.tavernrush.game.Round9Test > invalidModeInPresetIsRejected PASSED
+
+com.tavernrush.game.Round9Test > echoShieldCannotProtectRemoteMaster PASSED
+
+com.tavernrush.game.Round9Test > swapKeepsDistinctIndividualIdentity PASSED
+
+com.tavernrush.game.Round9Test > soloCannotTrainWithAnAbsentReserve PASSED
+
+com.tavernrush.game.Round9Test > teamPresetNeedsRealReserveInTeamModes PASSED
+
+com.tavernrush.game.Round9Test > copyOfCompanionProgressIsIndependent PASSED
+
+com.tavernrush.game.Round9Test > hornEchoProtectsOneHitAndDoesNotStackWard PASSED
+
+com.tavernrush.game.Round9Test > emptyOrInvalidSlotDoesNothing PASSED
+
+com.tavernrush.game.Route11DiagnosticTest > prismGuardianRouteCompletesThroughOrdinaryCombat PASSED
+
+com.tavernrush.game.ScreenshotTest > arsenalFeatures PASSED
+
+com.tavernrush.game.ScreenshotTest > otherSizes PASSED
+
+com.tavernrush.game.ScreenshotTest > legacyArenaFlowWithExplicitStart PASSED
+
+com.tavernrush.game.ScreenshotTest > extraArsenalLayouts PASSED
+
+com.tavernrush.game.Shield16SoakTest > diagnoseSoloShieldRoutesWithoutClaimingAllVictories STANDARD_OUT
+    OPEN tempo/survival findings: [r1 rematchtrue 360s boss1869.0, r2 rematchfalse 360s boss118.50998, r2 rematchtrue 360s boss2371.0, r3 rematchtrue 360s boss74.82324, r4 rematchtrue 360s boss270.0, r5 rematchtrue 360s boss506.0]
+
+com.tavernrush.game.Shield16SoakTest > diagnoseSoloShieldRoutesWithoutClaimingAllVictories PASSED
+
+com.tavernrush.game.Shield16Test > frontArrowCanBeParriedEvenIfShooterMovedBehind PASSED
+
+com.tavernrush.game.Shield16Test > everyFlyingKindCanBeIntercepted PASSED
+
+com.tavernrush.game.Shield16Test > coveringStyleCanInterceptRearShot PASSED
+
+com.tavernrush.game.Shield16Test > segmentHelperFindsFirstContactNotExit PASSED
+
+com.tavernrush.game.Shield16Test > noShooterObjectIsRequired PASSED
+
+com.tavernrush.game.Shield16Test > lateFrontBlockStillConsumesWithoutPerfectCounter PASSED
+
+com.tavernrush.game.Shield16Test > outsideArenaHasNoRegionStone PASSED
+
+com.tavernrush.game.Shield16Test > environmentalDamageCannotUseProjectileParry PASSED
+
+com.tavernrush.game.Shield16Test > parriedWebDoesNotApplySlow PASSED
+
+com.tavernrush.game.Shield16Test > pooledShotCannotRetainOldParryContact PASSED
+
+com.tavernrush.game.Shield16Test > playerBeforeStoneCanBeHitEvenIfStepEndsBehindStone PASSED
+
+com.tavernrush.game.Shield16Test > rearArrowCannotBeParriedBecauseShooterIsInFront PASSED
+
+com.tavernrush.game.Shield16Test > projectileParryInterceptsWithoutRemoteCounter PASSED
+
+com.tavernrush.game.Shield16Test > sideOfDirectionalShieldRemainsExposed PASSED
+
+com.tavernrush.game.Shield16Test > meleeCounterStillHurtsActualAttacker PASSED
+
+com.tavernrush.game.Shield16Test > godModeDoesNotClaimParryOrSpendShield PASSED
+
+com.tavernrush.game.Shield16Test > sweptShotCannotTunnelThroughPlayer PASSED
+
+com.tavernrush.game.Shield16Test > temporaryInvulnerabilityDoesNotSpendShield PASSED
+
+com.tavernrush.game.Shield16Test > dodgeDoesNotSpendShieldOrDeletePassingShot PASSED
+
+com.tavernrush.game.Shield16Test > deadShooterDoesNotDisableARealParry PASSED
+
+com.tavernrush.game.Shield16Test > stationaryShotOutsideBodyDoesNotHit PASSED
+
+com.tavernrush.game.Shield16Test > secondShotInSameFrameCanHurtAfterShieldIsSpent PASSED
+
+com.tavernrush.game.Shield16Test > expiryDoesNotPretendToHitOrParry PASSED
+
+com.tavernrush.game.Shield16Test > stoneBeforePlayerStopsHitAndShowsLocalImpact PASSED
+
+com.tavernrush.game.Shield16Test > openedGateDoesNotLeaveInvisibleCover PASSED
+
+com.tavernrush.game.Shield16VisualTest > leftThumbAimsWhileRightTapParriesIncomingShot PASSED
+
+com.tavernrush.game.Shield16VisualTest > localStoneImpactIsNotAFalsePlayerHit PASSED
+
+com.tavernrush.game.SpriteWarmUpTest > warmUpCoversEliteAndNamedVariantsOfRegularEnemies PASSED
+
+com.tavernrush.game.SpriteWarmUpTest > asyncWarmUpOverlapsWithRenderRequests PASSED
+
+com.tavernrush.game.Team15SoakTest > waterAndLynxRoutesRemainFiniteWithoutBodyTunnelling PASSED
+
+com.tavernrush.game.Team15Test > landingQueryIsPureAndReflectsGate PASSED
+
+com.tavernrush.game.Team15Test > followLargeStepCannotTunnelAcrossGate PASSED
+
+com.tavernrush.game.Team15Test > closedGateDoesNotSpendLynxOrderOrCharge PASSED
+
+com.tavernrush.game.Team15Test > thinLineIsNotEnoughForLeapBody PASSED
+
+com.tavernrush.game.Team15Test > wideJetCannotFitThroughNarrowClearCentreLine PASSED
+
+com.tavernrush.game.Team15Test > jetStopsAtWallBeyondVisibleFrontTarget PASSED
+
+com.tavernrush.game.Team15Test > conductionDoesNotDrainOrDamageWetNeighbourAcrossStone PASSED
+
+com.tavernrush.game.Team15Test > invulnerableSecondaryKeepsItsWater PASSED
+
+com.tavernrush.game.Team15Test > interruptedPounceDoesNotEmitFalseZap PASSED
+
+com.tavernrush.game.Team15Test > sameStreamCanWetAfterGateOpens PASSED
+
+com.tavernrush.game.Team15Test > conductionCanReachNeighbourAfterGateOpens PASSED
+
+com.tavernrush.game.Team15Test > closingGateCancelsPounceBeforeWall PASSED
+
+com.tavernrush.game.Team15Test > openGateAllowsOneCommittedHit PASSED
+
+com.tavernrush.game.Team15Test > movingTargetEvadesWithoutDraggingLynxAcrossMap PASSED
+
+com.tavernrush.game.Team15Test > deadTargetCannotTransferStrikeToReplacement PASSED
+
+com.tavernrush.game.Team15Test > reachableDryTargetBeatsHiddenWetCluster PASSED
+
+com.tavernrush.game.Team15Test > streamChoosesOpenAlternativeInsteadOfCoveredNearest PASSED
+
+com.tavernrush.game.Team15Test > tideRespectsGateButRetainsOpenEffect PASSED
+
+com.tavernrush.game.Team15Test > fullPauseFreezesCommittedPounce PASSED
+
+com.tavernrush.game.Team15Test > newInvulnerabilityCancelsLandingStrike PASSED
+
+com.tavernrush.game.Team15Test > streamDoesNotWetTargetThroughGate PASSED
+
+com.tavernrush.game.Team15Test > autoLynxKeepsChargeWhenAllTargetsBlocked PASSED
+
+com.tavernrush.game.Team15VisualTest > blockedOrderExplainsTargetAndOpeningPermitsSameButton PASSED
+
+com.tavernrush.game.Team15VisualTest > waterStopsAtVisibleStoneAndStatusDistinguishesRest PASSED
+
+com.tavernrush.game.World17Test > routeMapCannotOpenTavern PASSED
+
+com.tavernrush.game.World17Test > restartKeepsProgressNotStaleWindow PASSED
+
+com.tavernrush.game.World17Test > shopCannotBuyBeforeMatchEvenWithGold PASSED
+
+com.tavernrush.game.World17Test > returnToMenuDoesNotErasePostMatchAccess PASSED
+
+com.tavernrush.game.World17Test > nextArenaClosesWindow PASSED
+
+com.tavernrush.game.World17Test > repeatedFinishDoesNotAddRunOrGold PASSED
+
+com.tavernrush.game.World17Test > abandoningOrdinaryRunDoesNotPretendVictory PASSED
+
+com.tavernrush.game.World17Test > openingGateStillRemovesSameFootprint PASSED
+
+com.tavernrush.game.World17Test > freshGameCannotEnterTavern PASSED
+
+com.tavernrush.game.World17Test > expeditionFinishOpensPostMatchWindow PASSED
+
+com.tavernrush.game.World17Test > directScreenJumpCannotBypassTavernGate PASSED
+
+com.tavernrush.game.World17Test > lifetimeRunsDoNotGrantCurrentWindow PASSED
+
+com.tavernrush.game.World17Test > invalidExpeditionDoesNotConsumeEarnedWindow PASSED
+
+com.tavernrush.game.World17Test > topProjectionDoesNotInventPhysicalCollision PASSED
+
+com.tavernrush.game.World17Test > arenaFinishOpensPostMatchWindow PASSED
+
+com.tavernrush.game.World17Test > shopCannotBuyDuringRun PASSED
+
+com.tavernrush.game.World17Test > wallTilesExactlyCoverCollisionFootprint PASSED
+
+com.tavernrush.game.World17Test > frontHeroDoesNotFadeWall PASSED
+
+com.tavernrush.game.World17Test > postMatchPurchaseRequiresActualHub PASSED
+
+com.tavernrush.game.World17Test > materialLayoutHasNoGameplayRandomness PASSED
+
+com.tavernrush.game.World17Test > pauseDoesNotFinishMatch PASSED
+
+com.tavernrush.game.World17Test > invalidPurchaseDoesNotSpendAnything PASSED
+
+com.tavernrush.game.World17Test > nextExpeditionClosesWindow PASSED
+
+com.tavernrush.game.World17Test > wallTilesFitDepthEncoding PASSED
+
+com.tavernrush.game.World17Test > backgroundIsNotMatchFinish PASSED
+
+com.tavernrush.game.World17VisualTest > sixRegionMaterialsAreRenderedNotRenamed PASSED
+
+com.tavernrush.game.World17VisualTest > heightDepthFadeAndOpenPassageOnThreeSizes PASSED
+
+com.tavernrush.game.World17VisualTest > realPrimaryButtonEntersWorldAndHubOnlyAfterItEnds PASSED
+
+BUILD SUCCESSFUL in 1m 17s
+41 actionable tasks: 2 executed, 39 up-to-date
+REGRESSION XML CHECK: {'tests': 780, 'failures': 0, 'errors': 0, 'skipped': 0}
+ОТКАЗ: другой сертификат. Не удаляйте установленную игру ради этой сборки.
+RELEASE BLOCKED: source checkpoint only; generated APK is not distributed as a compatible update

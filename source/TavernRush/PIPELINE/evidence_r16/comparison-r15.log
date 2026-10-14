@@ -1,0 +1,77 @@
+> Task :app:checkKotlinGradlePluginConfigurationErrors
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:checkDebugAarMetadata
+> Task :app:mapDebugSourceSetPaths
+> Task :app:generateDebugResources
+> Task :app:packageDebugResources
+> Task :app:parseDebugLocalResources
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:processDebugManifestForPackage
+> Task :app:javaPreCompileDebug
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets
+> Task :app:mergeDebugResources
+> Task :app:processDebugResources
+> Task :app:packageDebugUnitTestForUnitTest
+> Task :app:generateDebugUnitTestConfig
+The Daemon will expire after the build after running out of JVM Metaspace.
+The project memory settings are likely not configured or are configured to an insufficient value.
+The daemon will restart for the next build, which may increase subsequent build times.
+These settings can be adjusted by setting 'org.gradle.jvmargs' in 'gradle.properties'.
+The currently configured max heap space is '2 GiB' and the configured max metaspace is '512 MiB'.
+For more information on how to set these values, please refer to https://docs.gradle.org/8.7/userguide/build_environment.html#sec:configuring_jvm_memory in the Gradle documentation.
+To disable this warning, set 'org.gradle.daemon.performance.disable-logging=true'.
+Daemon will be stopped at the end of the build after running out of JVM Metaspace
+> Task :app:compileDebugKotlin
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:644:27 Variable 'glowCol' initializer is redundant
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:645:25 Variable 'glowR' initializer is redundant
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:760:48 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:876:75 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/WorldRenderer.kt:1372:38 Parameter 'world' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/render/pixel/ModelBaker.kt:398:37 Parameter 'ox' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/main/java/com/tavernrush/game/ui/screens/HudScreen.kt:172:36 Variable 'u' is never used
+
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToRuntimeJar
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:processDebugJavaRes
+> Task :app:compileDebugUnitTestKotlin
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/AdventureVisualTest.kt:35:346 Variable 'a' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Boss12DiagnosticTest.kt:10:196 Name shadowed: a
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Boss12Test.kt:23:60 Variable 'w' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Boss12Test.kt:24:47 Variable 'w' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Boss12VisualTest.kt:17:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook13Test.kt:9:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook13Test.kt:10:62 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook13Test.kt:19:56 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook13Test.kt:22:52 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook13VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Hook14VisualTest.kt:13:80 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/R03VisualTest.kt:172:13 Variable 'bm' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/R08SoakTest.kt:29:16 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Region11VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15Test.kt:14:74 Variable 'm' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15Test.kt:21:95 Variable 'e' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15Test.kt:24:72 Variable 'm' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15Test.kt:29:62 Variable 'm' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15Test.kt:30:55 Variable 'm' is never used
+w: file:///data/work/TavernRush-baseline-r15/app/src/test/java/com/tavernrush/game/Team15VisualTest.kt:15:23 Type mismatch: inferred type is String? but String was expected
+
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes
+
+> Task :app:testDebugUnitTest
+
+com.tavernrush.game.BaselineShield16SoakTest > sixShieldRoutesAndRematchesStayFinite STANDARD_OUT
+    Baseline unresolved deadlines: [r1 rematchtrue 360s boss1869.0, r2 rematchfalse 360s boss118.50998, r2 rematchtrue 360s boss2371.0, r3 rematchtrue 360s boss74.82324, r4 rematchtrue 360s boss270.0, r5 rematchtrue 360s boss506.0]
+
+com.tavernrush.game.BaselineShield16SoakTest > sixShieldRoutesAndRematchesStayFinite PASSED
+
+BUILD SUCCESSFUL in 2m 11s
+25 actionable tasks: 25 executed

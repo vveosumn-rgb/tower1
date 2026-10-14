@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Пивная кружка таверны: временная иконка, процедурный вектор (заменить в R10). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- ручка -->
+    <path android:fillColor="#00000000" android:strokeColor="#2B1A0E" android:strokeWidth="7"
+        android:pathData="M66,46 h6 a8,8 0 0 1 8,8 v8 a8,8 0 0 1 -8,8 h-6" />
+    <!-- корпус -->
+    <path android:fillColor="#C98A3B" android:strokeColor="#2B1A0E" android:strokeWidth="3"
+        android:pathData="M34,40 h34 v38 a4,4 0 0 1 -4,4 h-26 a4,4 0 0 1 -4,-4 z" />
+    <path android:fillColor="#E8B04F" android:pathData="M38,44 h6 v34 h-6 z" />
+    <path android:fillColor="#8A5A26" android:pathData="M34,52 h34 v4 h-34 z M34,68 h34 v4 h-34 z" />
+    <!-- пена -->
+    <path android:fillColor="#FFF6E0" android:strokeColor="#2B1A0E" android:strokeWidth="3"
+        android:pathData="M31,42 a7,7 0 0 1 8,-9 a8,8 0 0 1 13,-3 a8,8 0 0 1 13,2 a7,7 0 0 1 6,10 z" />
+</vector>

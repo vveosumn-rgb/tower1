@@ -1,0 +1,26 @@
+Сырой вывод восьми бот-забегов R01. Обычный урон включён; это не человеческий плейтест.
+
+    SIM KITE seed=1 time=157 win=false wave=3 lvl=12 kills=566 elites=1 gold=56 near=2@90 minHp=0.00 maxAlive=49 chests=1 tav=0 finite=true ms=113
+        W: knives 1, pan 4, mugs 1, barrel 2 | P: fingers 4, stew 1 | picks=12
+        dpm: 1554 5439 5416 0 0 0 0 0 0 0 0
+    SIM KITE seed=2 time=143 win=false wave=3 lvl=12 kills=488 elites=1 gold=23 near=1@140 minHp=0.00 maxAlive=49 chests=0 tav=0 finite=true ms=77
+        W: knives 3, barrel 1, hearth 2, pan 2 | P: ale 2, shield 1, tea 1 | picks=11
+        dpm: 1557 5712 3367 0 0 0 0 0 0 0 0
+    SIM CASUAL seed=1 time=106 win=false wave=2 lvl=9 kills=297 elites=0 gold=19 near=1@104 minHp=0.00 maxAlive=50 chests=0 tav=0 finite=true ms=38
+        W: knives 1, pan 3, mugs 1, barrel 1 | P: fingers 2, stew 1 | picks=8
+        dpm: 1640 3699 0 0 0 0 0 0 0 0 0
+    SIM CASUAL seed=2 time=198 win=false wave=4 lvl=13 kills=771 elites=1 gold=42 near=2@128 minHp=0.00 maxAlive=84 chests=0 tav=1 finite=true ms=175
+        W: knives 3, barrel 1, hearth 2, pan 3 | P: ale 2, shield 1, tea 1 | picks=13
+        dpm: 1639 5420 8806 4953 0 0 0 0 0 0 0
+    SIM PASSIVE seed=1 time=21 win=false wave=1 lvl=2 kills=26 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=16 chests=0 tav=0 finite=true ms=3
+        W: knives 1, pan 1 | P:  | picks=1
+        dpm: 330 0 0 0 0 0 0 0 0 0 0
+    SIM PASSIVE seed=2 time=16 win=false wave=1 lvl=2 kills=13 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=18 chests=0 tav=0 finite=true ms=2
+        W: knives 1, barrel 1 | P:  | picks=1
+        dpm: 158 0 0 0 0 0 0 0 0 0 0
+    SIM WANDER seed=1 time=64 win=false wave=2 lvl=4 kills=134 elites=0 gold=9 near=1@63 minHp=0.00 maxAlive=27 chests=0 tav=0 finite=true ms=21
+        W: knives 1, pan 1, mugs 1 | P: fingers 1 | picks=3
+        dpm: 1586 170 0 0 0 0 0 0 0 0 0
+    SIM WANDER seed=2 time=31 win=false wave=1 lvl=3 kills=50 elites=0 gold=0 near=0@-1 minHp=0.00 maxAlive=20 chests=0 tav=0 finite=true ms=5
+        W: knives 1, barrel 1, hearth 1 | P:  | picks=2
+        dpm: 617 0 0 0 0 0 0 0 0 0 0

@@ -1,0 +1,13 @@
+region,activeSkills,protected,seconds,exit,dead,hookHits,damage,finite
+3,false,false,129,true,false,0,1138,true
+3,false,true,178,true,false,0,1138,true
+3,true,false,105,true,false,15,1137,true
+3,true,true,111,true,false,16,1137,true
+4,false,false,212,true,false,0,1258,true
+4,false,true,221,true,false,0,1258,true
+4,true,false,158,true,false,2,1257,true
+4,true,true,175,true,false,5,1258,true
+5,false,false,202,true,false,0,1273,true
+5,false,true,223,true,false,0,1273,true
+5,true,false,138,true,false,16,1273,true
+5,true,true,138,true,false,16,1273,true
